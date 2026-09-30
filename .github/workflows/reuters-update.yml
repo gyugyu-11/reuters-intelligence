@@ -1,0 +1,29 @@
+name: Reuters Auto Update
+
+on:
+  schedule:
+    # GitHub Actions uses UTC. 09:00 UTC = 18:00 KST.
+    - cron: '0 9 * * 1,2,3'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Update Reuters archive
+        run: python scripts/update_reuters.py
+      - name: Commit updates
+        run: |
+          git config user.name "reuters-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "Auto-update Reuters brief"
+          git push
