@@ -245,6 +245,29 @@ article.card{margin-bottom:0!important}
 .panel>.grid>.card .detailbtn{margin-top:20px!important}
 .exam.background-section{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px!important;margin-top:24px!important}
 @media(max-width:760px){.panel>.grid,.exam.background-section{grid-template-columns:1fr!important}}
+</style><style id="monday-background-spacing-fix">
+#mon{padding-bottom:0!important}
+#mon + .exam.background-section,
+#mon ~ .exam.background-section:first-of-type{
+ min-height:0!important;
+ height:auto!important;
+ padding:22px 24px!important;
+ margin-top:24px!important;
+ align-content:start!important;
+ grid-auto-rows:auto!important;
+}
+#mon + .exam.background-section>.background-title,
+#mon ~ .exam.background-section:first-of-type>.background-title{
+ margin:0 0 4px!important;
+ padding:0!important;
+}
+#mon + .exam.background-section>.studybox,
+#mon ~ .exam.background-section:first-of-type>.studybox{
+ min-height:0!important;
+ height:auto!important;
+ margin:0!important;
+ padding:16px 18px!important;
+}
 </style></head><body><header><div class='head'><div class='brand'>REUTERS WEEKLY BRIEF</div><div class='date'>2026.09.28 — 09.30 · KST</div></div></header><main>
 <section class='hero'><small>WEEKLY NEWS STUDY DASHBOARD</small><h1>이번 주 Reuters 핵심 이슈</h1><p>월·화·수 Reuters 주요 국제뉴스를 날짜별로 읽고, 수요일에는 사건의 의미·목적·시사점 중심으로 시험 대비 흐름을 한 번에 복습합니다.</p></section>
 <div class='tabs'><button class='active' data-tab='mon'>월 09.28</button><button data-tab='tue'>화 09.29</button><button data-tab='wed'>수 09.30</button><button data-tab='exam'>시험 대비</button></div>
