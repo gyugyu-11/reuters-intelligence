@@ -86,7 +86,32 @@ article.card{margin-bottom:0!important}
 .panel + .exam.background-section{
   margin-top:24px!important;
 }
-</style><style>.creator-credit{max-width:1100px;margin:18px auto 28px;padding:0 20px;text-align:right;font-size:11px;color:#8a8f96;letter-spacing:.01em}</style></head><body><header><div class='head'><div class='brand'>REUTERS WEEKLY BRIEF</div><div class='date'>2026.09.28 — 09.30 · KST</div></div></header><main>
+</style><style>.creator-credit{max-width:1100px;margin:18px auto 28px;padding:0 20px;text-align:right;font-size:11px;color:#8a8f96;letter-spacing:.01em}</style><style>
+.exam.background-section{
+ display:grid!important;
+ grid-template-columns:repeat(2,minmax(0,1fr))!important;
+ column-gap:18px!important;
+ row-gap:18px!important;
+ padding:26px!important;
+ margin-top:24px!important;
+}
+.exam.background-section>.background-title{
+ grid-column:1/-1!important;
+ margin:0 0 10px!important;
+ padding:0!important;
+}
+.exam.background-section>.studybox{
+ box-sizing:border-box!important;
+ width:100%!important;
+ max-width:none!important;
+ margin:0!important;
+ min-height:0!important;
+ padding:16px 18px!important;
+}
+@media(max-width:760px){
+ .exam.background-section{grid-template-columns:1fr!important}
+}
+</style></head><body><header><div class='head'><div class='brand'>REUTERS WEEKLY BRIEF</div><div class='date'>2026.09.28 — 09.30 · KST</div></div></header><main>
 <section class='hero'><small>WEEKLY NEWS STUDY DASHBOARD</small><h1>이번 주 Reuters 핵심 이슈</h1><p>월·화·수 Reuters 주요 국제뉴스를 날짜별로 읽고, 수요일에는 사건의 의미·목적·시사점 중심으로 시험 대비 흐름을 한 번에 복습합니다.</p></section>
 <div class='tabs'><button class='active' data-tab='mon'>월 09.28</button><button data-tab='tue'>화 09.29</button><button data-tab='wed'>수 09.30</button><button data-tab='exam'>시험 대비</button></div>
 <section id='mon' class='panel active'><div class='grid'>
