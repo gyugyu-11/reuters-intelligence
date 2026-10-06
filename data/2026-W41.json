@@ -4,7 +4,84 @@
     "monday": {
       "updated_at": "2026-10-05T18:13:14.441116+09:00",
       "articles": []
+    },
+    "tuesday": {
+      "updated_at": "2026-10-06T18:11:57.356712+09:00",
+      "articles": [
+        {
+          "title": "Lithuania says it would pay the cost if US establishes military base",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFBpRWVGbDBPVG1FWWpSMGg0dEw4U1VzQllYTlRKenR3VUVvcVo0OGhOckhEWV96ME51MFI5YWQ0OUVDZHdoeERjSml2T1l4Z1RCTFBENGNpSWRCMjNCTXlUdHFwQ3JSREJmVEFiMV9lTmhRRFJrLWVBSHFOTVRjZHdUUUtLVFZBR2lGMmlNV0F2UmR0OW9oaWR0dlpOaTZ4OHZmWlFISFM1QQ?oc=5",
+          "published": "Tue, 06 Oct 2026 08:09:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Brazil ex-President Bolsonaro wins big without his name on the ballot",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGJQQTNfMUcycE9keHpsOGI5RDRCN0gxbm1acFllTlNBRnVCbWFHb2ExdWZPYUJWLWpHMDVxbk5JdUt2WDNFNGdIWDU3WUxVWnVjUzVWNHpzUTBYQTBVVTdWVE9ZNkJGWkhYbE5DNTVIcXYxY2tOYzBDNTRvR1JUV1ljVDE2WUxHZlZ5MXNaV3RfR2czSFNvcHgyYndHdGtEYWNFbU9oX2VqdTNEaUxNR3B1bw?oc=5",
+          "published": "Tue, 06 Oct 2026 07:51:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "AMD plans to substantially increase supply in 2027, CEO says",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW9IX3h3YzRRRWZrX1VNVk02dkd6UDlUUFlDMjdfU1dwUTJEWXhHRkpCZ2EwVXZqLXJqQmJfeHdaU1VLOWpOYlU3Wi1YNmljekVRcHRsZ0dMOHNrTzM3dGlRc1dRNFBhTGlrVzFJcGxtSEVuRjVfeFQzTy1WOFRHMGVROFBIQ2R3LTZkYlVzVnMwWFVCQk9RV1B1emhkRTljS3BsTW53akZwNFRx?oc=5",
+          "published": "Tue, 06 Oct 2026 07:21:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Spain's housing crisis bursts into the spotlight at snap election",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHNzQWxGOVhmOTVkNXVHTjRZOXpHVWlGMVVrX08wZXEtS201YV95aC1rMVppNGJLREozSjRlNGtXWGJ5R1U3MjVLUGtGbnNxdVJOdDZkQmsxU1hUUWg0c0tnQW44M0pCcENfbzJGdmwtZVQ3Rm5jU1dKT1RaZkhPT0J2bUlfZ3hzenVVWF9pSV9ib1l0NnRjT1JxRGNVMUs1X094UnlhRmN4UQ?oc=5",
+          "published": "Tue, 06 Oct 2026 05:01:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNejhYTkxJelBpOC05OTN1Z0Z1aFdVWWljTzZVdWtEYm5HYjVEakUxd3pxTkJrdjlOVXdGWmlQei1CUmhLLW9zaXFzdF9CWFNxUjJZWFB0UFNSbGFIZ2VPWjRSTnU2M05MX2t3OHY0SHBacWpic2tqY2NXbE0xdGthb1ZNX1VGbzg0U1JUN3JXVnRoRlZkNWY3ZTVaTDJmSVlJZXlzRGd6bU5lNGhBeWZaV0Y1VjU?oc=5",
+          "published": "Tue, 06 Oct 2026 04:33:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "BOJ may signal underlying inflation has hit 2% goal, sources say",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2EwSzZ0dnlrOEY4dFNVczAzNlBqamI4eUwzWFByN0VVZU9qOFExTGJfLXNCRS1HN0hza0JwdXJuNUNpeExJMk9IMkI5R2gzbktldlBVejF6VWp6aG5DaVdldGdGRVVUTU4zeXBETHZJQVpobGh5RlZxTS0wQWI4WXRvcGNhQmVmdXNpd3RNT2o1aENxMmhEU2FFa25oVHJpSXRoQmR1MXd1WC02ZVQ4S1NlQnA2LWdh?oc=5",
+          "published": "Tue, 06 Oct 2026 04:28:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Reliance wins court reprieve against 'energy drink' label ban for Campa brand products",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUG9vblhKbHo0cy1ocWtwU24wdHItTXpZeWNJRmRDdGUyZEdVZlVwU3N5RzJWbDJQMmNrTVlTTFBaWG83dW52TnBGd09yTUczYWVGWUxwRW1PUUpQR0VPZklNQUs5T0NPTFNyeWlEYmkzS3JBV040RHpUeEprOXNUYjh6QzBtanhrUmFYUW5mSTBKU2hkX2h2TzMtSlRCelFZb2pnQjZSR1FnelYxRENhRFRabElRNkdSWlY0NENtUjI5UGFyYzZ1emhOUEk3N2c?oc=5",
+          "published": "Tue, 06 Oct 2026 04:18:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid - Spain to France: hold my cerveza",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdWpPbExlRFlGenpGdkFJXzE0VXJCT25fSUQ4U3VwY3pXbzNadWF6alI0dVMxMm9sR3VianV5SF9qZWpzZFd6dl93c2g1UnBSbENESVd2MmxWUlBQUnEyaUI4bW40UjYzd1Y4Wjd2Qjd2TW02UGdFRXViSVh0azQ?oc=5",
+          "published": "Tue, 06 Oct 2026 04:32:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Britain likely to expel Israeli diplomats if Jerusalem consulate closes, sources say",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzhlTWhiblhLTHplWEU5Y2hEc1dHVWhPSmpyZFMtYkY1R3c5YzJjT183Y18zNWNnRlNKZlh0RldweGp6V2E0TUpSemxmMHdjaG5ZVWF2anFBUlNwdXp5TUgwTldPZll5ZW8tRG9WMTFMY2wyQWhTeEZKS3BIN1oydS1hTDhlYWE0RlZ3QzUwaE5yMzZGb2lMWTc3blRNNnkyeDBOdzFYSEN0aEVwQ0tleUdMTV9PeDM2SDdlb3pPUi1aWE0?oc=5",
+          "published": "Tue, 06 Oct 2026 07:47:12 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Australian opposition party vows 'biggest cut to immigration' in country's history",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTEo2a2dsTU9PdEhxV1BNU2lkTHpIWWFVWng3djF4RTdMMVpOSVAxTHVEamtwTlVhcFlwU1RvNlQ0dDVzS21YQ2JVWTRaM2hFWUhZRWZsalBMVnJLeW5majdNTDBJMEhSay1RN1R6ZWtfWDlVNEdUbkNVTktuUDlZQlN0akI3UXdaSTRVdHYtRk1hTVQzT0RLZ1hDakxYQUUwY2lCNEpnZkg5dXNIbWZVZktFcGhDZw?oc=5",
+          "published": "Tue, 06 Oct 2026 03:23:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gulf oil flows rise to average 81% of pre-war rate in September, data shows",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2hMakllZ0pvbW1KWG9GT2loLS1WNVg0SFM0TnVpOWU5cXFIMjhiRk9Gc1FBMkpMN2VsSnpyUWR4bURCdVhOWmxjQzQ0ZnhNZ0R3WGVtWmRlYzlxSEFVUnIzVjA0ZVVNTHBoZ29VTjJYOWs2MDExaEgwVkxiSk1aTUhvTFF2RDh2aGN5UHdPWlJRY29SREg5S2xHMGZDS1AzMnJBb1Z3SzZpcGFLTjB6elFaM296dXc?oc=5",
+          "published": "Tue, 06 Oct 2026 03:03:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Indian opposition marches in protest seeking resignation of election chief",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnBoQ1pjcUc4eEozNUo4MFFXcGxRT0dHSzhrMEJTVWVCOWt6dFFxY0hyczlHME9pVk1lR2pxNVllczZRMXEtT2VDbzRYdHBZRGl6SzF4ai1SR2Z1RmNBOXctZGtxWGh4eXF2YlljbkNWV29CMFlNN1pIZVlDbG10ejFkdU50ZGxCcm5XczVWblE1cEk4UXlFN2lfdDRPaGszSFlsRU9wbFFuR05HTjdIZ3RQejQwcVp3R3RXbQ?oc=5",
+          "published": "Tue, 06 Oct 2026 04:03:00 GMT",
+          "source": "Reuters"
+        }
+      ]
     }
   },
-  "last_updated": "2026-10-05T18:13:14.441116+09:00"
+  "last_updated": "2026-10-06T18:11:57.356712+09:00"
 }
