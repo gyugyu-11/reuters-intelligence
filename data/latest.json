@@ -1,237 +1,83 @@
 {
-  "week": "2026-W42",
+  "week": "2026-W43",
   "days": {
     "monday": {
-      "updated_at": "2026-10-12T18:14:19.631557+09:00",
+      "updated_at": "2026-10-19T18:28:56.967658+09:00",
       "articles": [
         {
-          "title": "German finance minister cancels India trip amid Berlin turmoil",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3Fkd25KVTRSc0ItbXZldC1KRkp1azR4dzFmNms5NGN5Zkp5aDJjX29jUnN1anFjVHNhOUg1RjdMUU5yYzJPeklyUDNZNGNpUHFzejhoTDd3aDZlTlNSdHIyMTJjTWpDb3poWW1zMGlPZ2M4ZjBoRXVDSGxfb0hwa0xTS2NNVmlybEJNTHprOVR2eS1tTFc0WnJCYXZ6ekRpcl9nRVhKZ2c4UDJsMnFZ?oc=5",
-          "published": "Mon, 12 Oct 2026 07:14:07 GMT",
+          "title": "Australian lawmaker Helen Haines in critical condition after vehicle attack",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW1uMVltWlJjdTYxR1gxVHpzQ2JDV3BTVE9XV0dhM0VRTkcyQ3UxS25LRVVWdVl6T09DX25weE5vT3o0elFYVlNVUVUyQmdtWDdGUkhKaUo4Ql9jOFR6R29tcXJGM05WQUlVMmoyVmJndWdEM3ZwdURZOWpOdmZuTWo1S1Qxbml3aTF1bnBXZmtOOENtVldPRVZTRzh5dmJtdHllSVJSTHZnYllXY2dCRWpvOEtpUjdfRGc?oc=5",
+          "published": "Mon, 19 Oct 2026 08:37:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China's $7.5 billion EU hybrid boom faces new curbs under China-EU deal",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM?oc=5",
-          "published": "Mon, 12 Oct 2026 06:51:00 GMT",
+          "title": "Rubio denies US paused intelligence sharing with Ukraine",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQThGcWlldmI5ZTh2U19DekhJRzZuR0Z3OEVjQ21nZmJPSjdYV2ZXZ1dVMmZGa0F6RkUzYlhCUnlQd013Tnh1UE1jVEhveDFsN2Z6VERWVjRUWXF2WmlNNmZESEU2Z3ZoZmVhV2F3NG1YVVI3OFc0TGlDWDJmdzVkVnJRZDFDT1o4dzBGUzJTeG9aS3BieGFtVHhDZEhRWmt2dUlhNU5pMzgwQWJQOWduRg?oc=5",
+          "published": "Mon, 19 Oct 2026 07:40:15 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Broadcom CEO says biggest hurdle in AI-fuelled tech growth is capital, not memory chips",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0V6MVV3aEtaaWxQX0hLWjAwUDZ3RFZxMnFjTlJLb0RnTzFpNGNBMU0yUTJ0WHJmd1RmbHhWMXZwU3pGVDVuc044cm1BX19WYURpSnV3cnZiQ1Q1Wm1IYmhrU1RTWllwazRaX0lST0ZzQWJwNEctbEgzNFRKSGNqVnc5TVM1UGZjUHZBMHRqUzlHY0Z6Q0JtaEhOaG9SS0RPVTlQR2t6eW9tZXNVUF9sQXVJd2RYaWZLS2NvRUhiRWZHVFoxeDROcVVMRmo?oc=5",
-          "published": "Mon, 12 Oct 2026 06:54:00 GMT",
+          "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenIya2dWLVowN3ZJZjB5eXlJekpqc3VCajlVN0N3eldBMzg4d05JSG9MQXVKQWdqbVZRYnZ3VXlVSGktNEE2MndNU1dZX2FFd0YyeW9teDFfN19WNk9RS09rV0JlM2dnbEluVlgydFFJc3QtQ0RNRkRSWkkxV0V6WjNRM21NX0FqRVZLdnp0WWFtNmFWZEh6YUJXXzJRRVU5Sy1MbmtjRm5pc1VVc1daWk9MTmFScG5yRmh4SHZBNno1eUloQXVDRkRVNU5kUQ?oc=5",
+          "published": "Mon, 19 Oct 2026 07:55:20 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Le Pen, Melenchon head for run-off as France's political divide deepens, poll shows",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUJ3eHhuaFdzeG5hOXY3WXFxWDR2Q0lYNmtGXzdvUktMVUNHdmx4ajFpclhTcm1BWV9oZ0w0di1XX09BbnZpbGcyVjBGNmVxZXdyZ3ZUd3ZwcF9ZRUpaM3NLOGItZVg1aTVLMXE0RTRoVEdGbG9XcWN0QjdzU19jSHhnT00wLWwzeUpVdTE2VHFYOFV2QnYtUXF2bFRuN0Znb19oWnBtY3daY3UzdVFIOXJOOTE2UQ?oc=5",
-          "published": "Mon, 12 Oct 2026 06:01:00 GMT",
+          "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5",
+          "published": "Mon, 19 Oct 2026 08:10:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "German labour minister to leave post after stepdaughter's death",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXVyNnZLd1owaHNQbWpoYUVYUjhTbEFfbjRQTWp6a09nRUhBMzJMNkMxOVVta2VlUTNjQ1pMWnNqajNpMUFlMi13RnA2aHZrSE5Fd01nUkxDNWc2TUltRUN4b2g0Rm9YMllPcDBBdUxQSDhtVXpSdTllRXhmbWFvT0tYUUJZQ3FJZXVYLURwTkV4ZTBnQ0FDVDBWdHpjNWdnalkxeUpqRVdBU1FJ?oc=5",
-          "published": "Mon, 12 Oct 2026 06:11:00 GMT",
+          "title": "Philippines summons China's envoy over remarks conveying 'threat'",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3FaTkFtc3lTTUZRVGV2WlV4elBHTVlNb2JlcGVIbDEwd29YNlk2Sm1CR043SG1EYmFlT1F6d3Fwb0g2SFl5RHA2c2hkTVZ4TXpnYldWOUZ0N1pvbW90dDlkejFxaUtvRHNfOWJqOGt6Y1Q2Q295c3MtMDJvVlpZVDlFZ3RmQW5nZ2JIUjQwbWl6UDI2cG12YXBhQ0JDR0xEUHlmRDc3eUtKMVRFMENJ?oc=5",
+          "published": "Mon, 19 Oct 2026 08:09:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Turkey, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMF95Nm5HV1pQeTVrX1hkaU52bkVfQUNCcjlMMVVUazlFalZpd3dnTVdvOTAxMWdZMk1wU1hfNHkyYXBVY2ZnbnVUa0N2Nm9uOTVTYVQzeGphOExkTWtoRElvUzBqMS1PWkpOQ1VpZy1VN0tUQ2hmYzV5WG1uRVFBb00yb3RjZDZ6andza0lBak9HVXl2QVFZeWk4NXVpc0d4OTVnX2FSY203allXNVlLa1lENGI1bnFLWG1IQVZlS0NyYjZWTUE?oc=5",
-          "published": "Mon, 12 Oct 2026 05:11:00 GMT",
+          "title": "Arab voter turnout could make or break Netanyahu in Israeli election",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUWlScDFIcENiRk5OaDRHRHNzNjlrdnNxM0VobjJKbWhKcWpfaTNvM2J5U256QV9ZNEY3bGpMWUxhZ29idThSajljTXlpUnZ3Mmp2SmZEVE9hVURJTGxmMkNwUWpZMk85VWFxMGJpcWZEa2dRTVg5WHdNeGZLT1QyOU5CaXpUUnZIOG5MZVF2TUZtREJHSkpYTU13NlZmNGdBRk8yTGhvUWpUQThjUzBCRHA5Nms4Q2RqT0k4?oc=5",
+          "published": "Mon, 19 Oct 2026 07:21:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "China details outcome of EU trade talks on hybrid, electric vehicles",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzNFMkF5b0ZQUnNpMlJlTE82NkZrRUJiTXNreWtQbi1wOHZ2ZC1aOE5GVkhZcDNmd1pBREFLb1I2MjBlVW9ncFhpd1oyaXhDbVdMUEUtbkE1WmtXQUtpa1NtTEJOb3NQcVBkc1lldUMwaUdUU01WLTg3MS1QVUtGcF9lVDRtNTBTOHVBX2JMZnJUVUNPWnRXb21heklpNEFS?oc=5",
-          "published": "Mon, 12 Oct 2026 05:42:00 GMT",
+          "title": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbnpyZUxyMk1YNWg3QmZscE1xc3A0Z3V3OXFRajhLUmF6NFV6UjU0UzFvMFhtRXRlMEt2MGZpcjFBWGYzX1ZLLXpGb1QxWVM3Vl83ekRJTGY2VnpXNXhQeG9CVGxfQk45MVpaTVRGTVM4NkNXemx3VlJYMDZ2b2JROFN0WFJFdDBTVU5TZ0tWa2VhTzJjS0tJN1k4ZGRvODV2c0pKU3pZZ29jRWJDeGFFSzVsMFpCd0czcU1BclVrTk1rRWp6Y0J5bmRFejJ6WlozMzl4dHdn?oc=5",
+          "published": "Mon, 19 Oct 2026 08:27:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Pakistan province leaders of ex-PM Imran Khan's party detained, minister says",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVzNGQzJfT2pyWFBUZGlMR2RLZ0FReGVqX0VMOVRlQWdrMV9PRzJhWmpxNUl6SnNRUTRZaV91XzlFMWp3Z2NSUk1paFZQQlZYUkVsdWowbDgtYjczVVJGVVhIWFZHcGNIdGRXNTg2cmZyaXlSWlVJbndjV3NEWV9qeVk3Q1FXQzh2SE0zSmRpbkVUbGRZMHFPMXNqcXhjb0xHSllwNHNhZGhwRC1fNkRReEUyVTdlZ2sxcGx0cW5XTDc1XzB5YVpFdTNxY0I1Smc?oc=5",
-          "published": "Mon, 12 Oct 2026 06:50:00 GMT",
+          "title": "Israeli police arrest suspects over settler attacks on US journalist, European diplomats",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGdXdTZVUC0xd3NJMzJWdlpNS0tySGdmcUlvdl9wWXhIUUdMT3E3WFZPZWFEam1PWDdFUDRRd0trNGduLUZzRWVzWXBoVWt5QkpFMk5lMzhUZU9yNllmbUxlUEZwdk5raGhEUnlyTDBTVldKWkxXSWNndHY4U01Kd3BqM3lEMU85LUZydXF2YUdMOEc5MHh5ajlfb0lNSzh1MXE0TnBEMHNIOXVzX3ZZWGRrRnNrc3Utd2VmTnh4LVIxQ2x3UElRa2hQbm8?oc=5",
+          "published": "Mon, 19 Oct 2026 06:01:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Morning Bid: It takes two to make a ceasefire",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByQ0pKUGhDTEVObXEwZ1JPWWVjRWgzcUVtR2N5MkI4MlFMTEpNbk1iOGJwZjdvZU9ob2FKS3MyaVhic0pQNmZJQVhSMDY5UU1vekdXdk5naGt1cDBjSkh6enlTMTFTM2RTdXM2MG00MXNMMWJKNVJucWpTM3ZXekU?oc=5",
-          "published": "Mon, 12 Oct 2026 04:32:00 GMT",
+          "title": "Rubio says Ukraine and Russia should be focused on ending the war",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnlMYkJrU1pjQjZ0cTJGeDV5ckpyX3lsaXJrNjkwQmtjYVlUaGFvZUZuTWJ6THZuXzJ0elVfdGRoSkhRR2ZLelBvQXlDWVRzRWdVdW5KcUNKZU11TzRnQzdTdkpINWVZWWlsMTVYcy1BR1BzbkZRVnBEUWtDUEpER3lTV1dEZnl1OFVkZGtjemVQUjU0SUNxRzBHbktyTzNQQkE3aA?oc=5",
+          "published": "Mon, 19 Oct 2026 05:41:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EU adopts nearly 1,600 new sanctions listings targeting Russia",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHU4aWdseGJQNDlHSkY2bVlVakhtNG9qSWo2eHl0MV9WSTRoc1lqdUdTcHlXeWdCVU1nZ3V6c2Z2dV9FMmRXdGlmMjhOOVpENE9ZRkY1UkRxM1ZzUTBaLTE0OUhEUE9nVzFVd1pUQUlJcjljeWhjNEJvSk55VlhobmU5Q0F2S2lKb0M0Z2lLcjg1Y1J2bG8zUU8xUXdLUV93WUpOMG5DSE11dzJmdklv?oc=5",
-          "published": "Mon, 12 Oct 2026 08:23:44 GMT",
+          "title": "As France reels from violence, Macron points to security failings",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFBiSHhMOGNoV0YwYU9VWnhtd19tSWJCX2lrYWltV1dPMmplTmtrTzQ2cklHYk4xZjQtVkRxWDFUUEFNYlYyMmxicnMwNFpFLURhZUVQSGdwLWlQcHJZbmFiSG9YMTloRWNGa0FxcG9vX0RyRUxpeURHUWlKcGgxajdPV3RjbS12YjBxTzVkQjU1OU5BeHFFYUk0cnY1U1hEczdLQnFNWQ?oc=5",
+          "published": "Mon, 19 Oct 2026 05:20:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EU eyes COP31 climate deal to accelerate CO2 cuts, document shows",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmY4X3hOUlE1bVFld0ZMSVdCby1VUDFOZUpoM29Vbl9jRGllQXpuMVMtUzgwT0lQSWZuU3JDVzFLbEtpWl83b1p4NXZXUWkwazRkOFhETldzYTNLT282Qi1RckpvQU5Sc1lzUG03QmUyWnF3UlltN3F0R0tYeW5FaHJ4SzVmMU1SOTd3dVZldm5RTUxFaVJQN0xGZ05ydVptU2JpZUVreGZOaDdZb2ZfMXRBSWZYRHc?oc=5",
-          "published": "Mon, 12 Oct 2026 05:02:00 GMT",
+          "title": "Six migrants, including infant, die after boat collision off Greece's Lesvos",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWhhQkVUejRES3pkQXhFRDVYY052T1hEOG9RajA0a2ttSDduRFk2VDh6eHotN1k4bTk3ZUN0RmtINzNic2U2ZHJDM3lUeGJEQ19BQzljcER1cG1UUlFHLUU4UGpVSzBobzhrS2gzX0ZNNmxOMmNybVdRX0wyaHhDUmp5aWV2bFR3SWZwNi04QTNPYkV4VWR0LTUtVUxKQm5sakQ0OHBsdkVaYzhieDI2ek8yUzRsUQ?oc=5",
+          "published": "Mon, 19 Oct 2026 06:29:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "IMF says AI investment keeps global growth around 3%, with major Asia benefits",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXItVGZaTjNISE9iMlVzZzhlV2ZmYzFDR29feFhfWFRhRzJFdWlwYXk5QkZpUHQ3WVhLZEZId2xobTNmc1E2Y25FN2c1TTg1eldiR3RLR003ajh2RUpSN1RxYXVzYjJ4TW5ZMW1ZcVljRndfSUpoNVVlLUE3eWc1MkhqUUtGQTdYdC1zVUxIbnNJWVJYb2ZIcVN1S3QzWWhQUmdsQ3VFVG9xSEs4NDVvOTZ5dHJRZUNNaUtsazVSMThYQQ?oc=5",
-          "published": "Mon, 12 Oct 2026 03:50:00 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    "tuesday": {
-      "updated_at": "2026-10-13T18:13:36.204375+09:00",
-      "articles": [
-        {
-          "title": "NATO fund targets drone defence technologies as Ukraine reshapes priorities",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXB5YmkxMi15dGRGMVBZN2VVNDZUR2VTUXJoX0NLTkdnQ1Y1LUdZLUo2bGRPUmZOamd6cEZhSklGMVhPeXdoMGNjcXFNNUJfYmtSYzk2V0hMN1ExNFNOSGh0T2oxcVRiallqR3dOWFI3YS1KNE00QW1NSWd6TGxidjVhZnlWSDVGSVlrVUdJa1N1SGJTNzIzQ3JsOTNCSG9HWk5wUklzR1M1akUwU3RQVW5OX29WN290RmtxTk9mSF9LeEU?oc=5",
-          "published": "Tue, 13 Oct 2026 06:01:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Eight people hurt in supermarket stabbing in South Korea's Incheon, police say",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk9RWHVGNlZqZ1lNUk9BLV80Q1NJRmRxQmxlYjlhOVFna21Sbk9jVlU1VDNidllTdEJEbnhKNl9rOXdpQXJOX2l1WHU4UWMzZ1lKUXk4bzFXRkNfdm5fem9CU2RlM0JBZlAtalBBRDZiMnJjYk1NUi12dHFfVXJucjZPc3N5ckxPSjRjVkxOaUFIcWdkVmV6MVRBMy1TY2NBT1NmakN2a3Blb1ZxTVpzV0JMNDNNa0xadG45b3pNNU1MMEpQUjA1WjdsNG9icHVT?oc=5",
-          "published": "Tue, 13 Oct 2026 05:43:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Eleven sailors missing after drone sinks ship off Bulgaria",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0lxazhMY3hqT0E3UUxzMUVWb2d1MUpIQzVReEQtSzI2aGtZQjBBdzNCUEI3SThQZ0J1b3ZjeExrbmFpVnZSZW83MFlrUmhGTF9rWHp0dVVRaW9wWl9vZ25wTHNvZ1RqNkY4ZDIyMmNBTzZlUWxNa3RqdC1ubHV2NTBOdWtFVWltZHhTSV9oVzdEeEdTd2xDY2Zfekcza0ZMQm5ILTFJbw?oc=5",
-          "published": "Tue, 13 Oct 2026 05:27:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "AI models may soon self-replicate without access to data centers, Anthropic warns",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
-          "published": "Tue, 13 Oct 2026 05:14:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw?oc=5",
-          "published": "Tue, 13 Oct 2026 05:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Europe's carmakers turn back time to rival Chinese EVs",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWx3dWppLTZjUEZibE5naEZacTRMcy1jRms4SHBpaW83TnpLUjFOOXoxeHlvYzBPdDJVREE4SzZOOTg3RHdmT3VocHRQOEVpcS10M3hCSFVMSXVoSmxVWTA4RDhhYmxWQzZZdTZ5MlNMcm1VZDdxaURONjA3c1VtVnhKZm42UmpxbUdERTh4eVpLelhxUFlGMzA0MGhFVG9Fc2k3S1BGU1NnUlp5YXpRdWpvM3JQREk?oc=5",
-          "published": "Tue, 13 Oct 2026 05:01:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Indian police detain 'cockroach' movement leaders demanding election chief's resignation",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnFsODVGYU4zR2lkQUw5R3FLUkIwY1ItcDRoUkc5NkJ3bUQ5TDRiamkyTmRDOUQ2WXRQeHlmcDZ2bUJHUVVpYjZNYjJIdmx6eDFIWWhVaUpLdV9mT29Vc2pmN3hudDVEaFRydTJEMG0tTkdSa09GdWFKQ2Fwa2V4czB4MmZLeElsWW1CNHNvMTBLXzJGNmNJaXB3R1dxOW1VZk04T0RnMWdZTm5pUEU0Rno1UV9IakVucVMyZy1B?oc=5",
-          "published": "Tue, 13 Oct 2026 06:03:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Character.AI files for bankruptcy, agrees to sell some assets for $20 million",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5",
-          "published": "Tue, 13 Oct 2026 04:22:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "NASA's Perseverance rover breaks record for off-planet driving on Mars",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmQ1WnUyTnlVR1FUOF85YkNVTFJxVnRCUXAxX2ZOTUgtbUlwMFJCZF8wanVYTUQyMnNTem10TEMyMXpueEFqNDhTU3NSeVJFMHNoc0E1TnhjRE9EZ0N3Y1BVNU8teUJTQUlUZmJ2LWZWVG1OQW1CeDlYd0FUZEVXOUVvaDI0b0d2ang1bzFTNUNnVllrVUJVSGxHaUJIZnJlRXFHNTlGY044UQ?oc=5",
-          "published": "Tue, 13 Oct 2026 04:35:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Prosecutors drop three impeachment charges against Philippine VP Duterte",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFNOVFM5aFNEd0FOTldkbmVFOW9rZTlrM1pCYmdGQUpCUUIyci1lTncyUGdWOUkxNERRck9sYnhIeGptRkQ4MFRuUEtTR25ORHlGUWlEbm84OHZfYUUtT1FNQnk3WkEtbmJuVWowR1hzOUJvREN6aTYxa3FyTHZEc2ZFeUtJNWl2N0wzWE1ZVG5fWEVpcVJnVEw0Q0lJYURfaVZweWY1a2VQSG1vb3BBd18ycFN3dGRDSWhDaVRwR09jQzUzUlE?oc=5",
-          "published": "Tue, 13 Oct 2026 08:28:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "BP flags $3-4.5 billion in impairments for third quarter",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0Vzam9PQWZSUjJ1ampUeU9BcVBmQjJPUHJ2ZHkxT3pEcmRManlDTVBtS0N1LTJWV1lwR1FHMHFhZGJOWUVFN2U2eE5RRmlaVEVIRVlYdFhjS0RBdkxlVDJMV2pnOUVNLW4xbGVaYlpIV1VVVWhrSVJFT2YyWDdBOTV3eEwycXR6eDdCUW9raVYwNXZOQUU2YmtTM0pWekVfX2FDUlFNWGI2WEdQZHc?oc=5",
-          "published": "Tue, 13 Oct 2026 06:09:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says he does not believe China and Russia are helping Iran 'at all'",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZ3WXAyQzZiQXZBZmJ1aEV2WUZMcXA4bHlyNml3LUd5MG1GWjNJSFIyUnhycktZc1ZHZXVPMERsaEs1YzZEX3FtT1JwOERaMUtCY0RkYUZVQzhWWnIzLU45TXVLWUk4RnFaaU53X1VxVVNaOVVqaHpaeTdMRkFfS0h5aTFVaERIcEQ4S2xsTFJ0MVpHa093b1RmYjZPaV9DRTBGMkRLUWN2djRTSGtKVU1uUFBGZw?oc=5",
-          "published": "Tue, 13 Oct 2026 03:53:00 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    "wednesday": {
-      "updated_at": "2026-10-14T18:25:11.517460+09:00",
-      "articles": [
-        {
-          "title": "Family of UK tiger attack victim urges end to video sharing after Trump posts footage",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbGsxSDRHRS1oVkExejZCTUlWU29GbGVZMDIxRUkyRkY0Y2Z2MFR0cGN2alpxeWZwNmFJN1V2STlsZktGZTJNQS1EZ0J3OV9aTHdkMFB5ckFDcVp3YXl4WXJMa3NzNXBQRWtDNHpMSzVOaWN0MGNzRG0wdlhoMVBJODRSVDFRMlVaY2REQzFTODE3MEhrNXdiUFEwWWItXzF5RXJWMkhjNXRNbUdyZEl4U0NKRDJCSWdkckFTTFhrQmxSdw?oc=5",
-          "published": "Wed, 14 Oct 2026 07:59:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ukrainian drones hit Russia's biggest data centre",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
-          "published": "Wed, 14 Oct 2026 07:48:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "U.S.-Russia deal on diesel is 'very risky choice,' Italy PM Meloni says",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVh1bTlFMVVSelN2MC1ndm94QjRuYm00U3RLSHNscTFuYkVYdVlobXRBMjlxSUFMY1ota0xUN0VNaVhpVWdLQ0NkV1pHLW90WFRoUHpVQUNISDZ1SEtQTEk0SzE0QzkwelVHTXpHVVVLZE1oVWhtdWNBZ3NVR3dOTjJYTjZfMGNxVzN6UHVZdld3d21pLVduc05ZbTBSRGhURmVnNXlNYVZCSzdI?oc=5",
-          "published": "Wed, 14 Oct 2026 08:39:41 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pope Leo had peaceful night in hospital after lung cancer surgery",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhjR1JvdVhXeEhEaEZla2JHSkZ5bHFoeWtBTmxpcWgwS3hhMVdCMExHVzdYalFtZFp5VGhYYldPTU5MZWt1QkE3QXNrSU02ZWhkbEtfVE14RW4zZGZwa0VTUmRwUXo5VjRMVlNrc0ZqS1lhcE5QLUlsak9WODRybU5peXp2ei11N2M0M0hBdFdweEdsOU9Xb21TbTJ4T2NRMTh4UkVvSmVxbWM?oc=5",
-          "published": "Wed, 14 Oct 2026 08:29:22 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw?oc=5",
-          "published": "Wed, 14 Oct 2026 06:34:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1NFMUNzVk1sZ0RKYUJDSjZPdFh3eTRzMUhrSDVCR1NJM0dOWWlKWWJvUzhPem9YRHhNdWFDeFhKTmVFYXc4WXEtQ3E4OWxUZnlvanVRelloT3N6TUl0U2VheVBrYWVxOEZqLVI1WlRjbmlWQktJODJlLWN4dmZmcE12Q3dMeU1JYnZud0tvT0gtOG1YTTBWN3A1VGpjNGhIZFJXeUw4V3VwdzByLTBfUWRVQVVETzJGMEhSU2NB?oc=5",
-          "published": "Wed, 14 Oct 2026 06:21:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM?oc=5",
-          "published": "Wed, 14 Oct 2026 08:16:56 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia pledges $250 million to boost UK AI safety research",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN?oc=5",
-          "published": "Wed, 14 Oct 2026 06:19:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Pressured at home, EU leaders weigh China trade steps",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZC1va2NWTWZxZFZwX0o0VVhXdFBUODFPVGt5RVF0ZmZfQmN3MXdrSFlyYVczRVBLdU45bGU2NmthUldZZXF0TGdXYTI2bFpidU5WdGg4anBFckVsbUFyUV9EQW0yMzdWNUd0LV9kT3Rtd1QzdFRGc3VUODVoSkYycG1RbkxiRkpmWWh5dk5CUWk5OUpodFpBbWozVnBTZw?oc=5",
-          "published": "Wed, 14 Oct 2026 06:04:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "ASML says AI demand will exceed chip-tool capacity through 2028",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
-          "published": "Wed, 14 Oct 2026 08:46:23 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump to visit Manila in November for ASEAN summit",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlB5V2Jsb0JsWi05WmppSk9JWUZyUFp5ZHBuWjZacTNKTFE2RVNwN2laRTJ2bGgwanpvLUtkSnBYVUEyZmdfeHR4QUVhOTA1NjJETXNGOG1TTzY4WDd0N3ZKbk9MVktyV3gyS0ZORnVzdk9lYkRrNnBKMjNRMW1FTnZUeTl5YThqa1MxYVF6SjYwbjEtRjljbXdybw?oc=5",
-          "published": "Wed, 14 Oct 2026 05:40:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Korea police identify more victims in Incheon stabbing attack, total rises to 10, reports say",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa0JxTnFkYUpXZTRXaHhWX0lHeDRSRXNvbGdmMzY5TGZwWjZUdlZldVc1OFVaclQ0TTVFeGh2clp2dUlyRGZYSWhMWjNUTE15bGlnMy16WjZlV3dEeUoxdm5GOFhjUWltekNxR0ZReGVqTHpGdWF2aUlLQ2I1SlZoZUx4eUlmWTZLTTV5dlZvLTd0MDlBenJPTndHM2lIZVRHLThWNmFpSEUtakFGRVNMaHZObG9iSG5icWgxVVhRdy1qYVVYZDZCRTFoSmFXWHc?oc=5",
-          "published": "Wed, 14 Oct 2026 06:31:00 GMT",
+          "title": "Putin approves minor Russian government reshuffle",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXFIbEpxSmkybWNGczBUYVEyMnFKYm1GN1BwVTBkaWZDREF1Sk5WcEVFOHVwaTF4YXc2Z0RQcnB2TlNGdTY3bHFMODUtckcwMWdXWUV0eWtLWndTc1A0TTNlcUQ2S2ptUVFYN2hSRWVpMmdyNG1kbk43U0NaOHNYc1BzSHEzck0?oc=5",
+          "published": "Mon, 19 Oct 2026 06:53:00 GMT",
           "source": "Reuters"
         }
       ]
     }
   },
-  "last_updated": "2026-10-14T18:25:11.517460+09:00"
+  "last_updated": "2026-10-19T18:28:56.967658+09:00"
 }
