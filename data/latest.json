@@ -154,7 +154,84 @@
           "source": "Reuters"
         }
       ]
+    },
+    "wednesday": {
+      "updated_at": "2026-10-21T18:26:19.623740+09:00",
+      "articles": [
+        {
+          "title": "Cyber agency warns websites may go dark as PHP prepares critical fix",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+          "published": "Wed, 21 Oct 2026 08:44:20 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "North Korea tells border troops to take 'resolute action' if South threatens their safety",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3?oc=5",
+          "published": "Wed, 21 Oct 2026 06:34:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fighter jet crashes in northeast France, at least one person dead",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjRieTdHWUNzMHlHelpvbDNtSE91c1Z2LWVjNlN5djlBQWVraHByNkRRSEpZOE5raDloOE40ZWxUWXNDMmRoQXFEZVNwYzBmSEliSmo0eWxfam5SZ1FpdWFGZXpTWGRRMlJRZDlpRnBaUkdCTVExeXNFaFQtRkhBUS1aY0xGR3dBdjBJdFF2OEVnNGxZcGVkMlpwYnBhblF1YWRMOQ?oc=5",
+          "published": "Wed, 21 Oct 2026 06:53:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Micron says it has reached agreement with Taiwan union",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV193bUJ6bXZZcHp1Q0tId1ZUdU90Um9BR09QOU0wZ0pxNmJtVFhSbVhBMi1hdXY5ajVReHFJSVVseXY2V2Z4N3hEcTEzenJJSVAwRnNCWXVnV1NudWdqalpwenc5eDhBSTVVaUZYZ1kxaTlpcEh4NWRSSkdrMUVZeDhlQTZXU2RFQ3oyZDVwU0tsbFFRRzRIMGpiODVjM0otVUJlVEZRSmV5UGtpYXJBY3B1aw?oc=5",
+          "published": "Wed, 21 Oct 2026 06:23:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVNCYXpqVkgtQlVQZm14SGYyV3g2X1RhVVY1U3UtYW1lT2E0bkM0aUFySmZTbFItNmZwOXpxTWZyR2lqMVZrMVhaaGNQN0M5Zk02ekJ1bzMwMG4zYnVFR2ljNzBXRzNhb1ZOdG5PalE5eHRPaWdhYWtfNzZJV2hpVEJZbEY0Ym9jSHFmR2Q0Uk5rNk5ST2YwZDY4SDRiaVVBVFFNR3FEZVd3UGdEaEVVVUJKMkExSlZvUEpRdi1tTjQ2NWk2U1ZqcTBrYm1YYU1qR1FkbXAzWWQ?oc=5",
+          "published": "Wed, 21 Oct 2026 08:43:50 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzBscFc1bVNobHJsZmJJNHE4dmlON3Viekp4ZDd1R2QwdlZaZkZJc1QyTW9aQmhnOGxmUW14NnFWbFlkSWVDbkJiRjdzdjhLODlSMmd1T2hETGxfbXRnaFo2NFE5UG5vbVNWZ21Zd0tWTDM2NExxaVI4bU5zNTlrbHM2dmhiT1ZOVkwzWVItdHlYeTFESEFSMVRla0hPUzFueUdGVl80NS1IbHJlQWhsakRqN0lsbjF3cF9TODFrMA?oc=5",
+          "published": "Wed, 21 Oct 2026 06:02:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHFiRnNfU1ZqdEFSWG9fQV93dDJCNVQ0NTh2bF9WRmtQcERCbFZlQ3ZVRllOeWVjejY2RGZhNjJzVjV5U19lMUhZV3ZpNTZpcElSbGFaY0dpTUxEaGx4eElobk9qakZXZ3g5LVZqaHV0QTZ3eElMSGdjQzdqT3Y1alVuVDh4NV9RZF9ycmc1bkUyeTVTTnFvVzdUUVFnWXRDb29aQk13YU1OeFBNQ3BFQ2tNRjlCTWFIX2c?oc=5",
+          "published": "Wed, 21 Oct 2026 05:54:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU85S2NnYVlHbGstUGNaTkNxaEpqd1Atbm1ycEZYSEExYWx3bjFjYm40TGVQSG9jaXd5TFdrVDdQRWFxX0JqT0RqeldyMGxqTmhkMlBlNW96b3hnRjh4N2IwMHZsSF9Wc29fSWkxLTVpZnlRZ3NVaFVlY1RtVmRzRG5jbzdidTFhZkdLd1JmMmowX2pkRTcwVlgyYlNuVnNIamQ4Q0hUeFN2ZElxYzZ5dlJRWGJNQmNnaWNNZ2dZcTNCX2FW?oc=5",
+          "published": "Wed, 21 Oct 2026 06:11:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says companies should pay 'dividend' to communities to make data centers popular",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFFhcl9qcUZ1SGk4eFlwa0ZMZ1ZsbC1scnpKT0hVMDdZOWpsX0JudFE0REhVUU4ySGhBZ0VaSWxMOXA0N2lyN0FYVmJFMjBfMks4OERreGNOYWtzZnNCemx6blNJcmhRNEF0aFdmWHVSTDQ4NE1YNTN1ZTJKdlVGWld4b20xTzczWDRyZW1DMGhIcEs0NHE5clRNOEtMcXJCSDNRMDhLYnMxd2JfYWJ6amxldE9IUDF4Zl9rZjY5eHhiNklGZ3IxS1I2ZmlCZnYzNVVnMjdR?oc=5",
+          "published": "Wed, 21 Oct 2026 05:55:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Getty Images files for US bankruptcy, advances restructuring plan",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUQyNW9MZlpIR09iUFlQTktqRGVEa2txRDdMVEVQU2RBbWdOaE56Y21GSDdiVmRkbEw2Um9IYmVxNjRyZUtxUUZQYmR6MmptR19HRWZWNEt2cU8tZjAteFJQX1RRQU1YNEVqY085X3I2Wm5ObzVkQU81cVZ2MlM1TENtYzBidFozMEpPUHVBbHhTVEtjM2J0NjkwQlp6TUhieFY3ZGZQUUpibTVGWVZHTWZBQQ?oc=5",
+          "published": "Wed, 21 Oct 2026 06:39:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Namibia's disputed petroleum bill clears second reading in parliament",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEtfYTRqbTFCUG1sbEJSTlBwSlVGRG0wZVZyN2Nncmplb3JPZ2t0aElTeEhkUDRncllGQ1dHVWpzVUo3QzA5WHpGVmRKQW5DeVdrX0tOMnFjS2YzcVplUjlvZ3VEdk9uSXBYdlI2emdnQVJpRVRNYTcwcVVnNDNEWXJDQU5hZDVubi0tZ090ZEZQSlN0bHBjaU1ZMkJXbXhjOFpSbkl6T3lkSzN2UUI3MHl6QVd3eDBp?oc=5",
+          "published": "Wed, 21 Oct 2026 07:11:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
+          "published": "Wed, 21 Oct 2026 04:49:00 GMT",
+          "source": "Reuters"
+        }
+      ]
     }
   },
-  "last_updated": "2026-10-20T18:25:59.771298+09:00"
+  "last_updated": "2026-10-21T18:26:19.623740+09:00"
 }
