@@ -1,237 +1,83 @@
 {
-  "week": "2026-W43",
+  "week": "2026-W44",
   "days": {
     "monday": {
-      "updated_at": "2026-10-19T18:28:56.967658+09:00",
+      "updated_at": "2026-10-26T18:33:08.835071+09:00",
       "articles": [
         {
-          "title": "Australian lawmaker Helen Haines in critical condition after vehicle attack",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW1uMVltWlJjdTYxR1gxVHpzQ2JDV3BTVE9XV0dhM0VRTkcyQ3UxS25LRVVWdVl6T09DX25weE5vT3o0elFYVlNVUVUyQmdtWDdGUkhKaUo4Ql9jOFR6R29tcXJGM05WQUlVMmoyVmJndWdEM3ZwdURZOWpOdmZuTWo1S1Qxbml3aTF1bnBXZmtOOENtVldPRVZTRzh5dmJtdHllSVJSTHZnYllXY2dCRWpvOEtpUjdfRGc?oc=5",
-          "published": "Mon, 19 Oct 2026 08:37:22 GMT",
+          "title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
+          "published": "Mon, 26 Oct 2026 08:34:33 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rubio denies US paused intelligence sharing with Ukraine",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQThGcWlldmI5ZTh2U19DekhJRzZuR0Z3OEVjQ21nZmJPSjdYV2ZXZ1dVMmZGa0F6RkUzYlhCUnlQd013Tnh1UE1jVEhveDFsN2Z6VERWVjRUWXF2WmlNNmZESEU2Z3ZoZmVhV2F3NG1YVVI3OFc0TGlDWDJmdzVkVnJRZDFDT1o4dzBGUzJTeG9aS3BieGFtVHhDZEhRWmt2dUlhNU5pMzgwQWJQOWduRg?oc=5",
-          "published": "Mon, 19 Oct 2026 07:40:15 GMT",
+          "title": "Philippines defends bounty for fugitive senator wanted by ICC",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlFVLXlFQkJKVEJKTHMtQ094bGZSVEtXSDdNYW1pLS1kbnBJem9BelpEN3lMNGVjN1hhZGlpRkt2RUxRNTE4bEVqNGxVeUtuYmx6NTB1U1NtMDc3UTFMQlpfNGIzb1hXeE1fZzZXbFFhZEQwQWF5aWFFZGp0X0xIT3ZBQzRsaHZlR2x5enBfcDdER0RPXzdsVmxOTWlSdl8wMFFCWl80dmNwTlBiUkw0TzB3?oc=5",
+          "published": "Mon, 26 Oct 2026 07:06:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenIya2dWLVowN3ZJZjB5eXlJekpqc3VCajlVN0N3eldBMzg4d05JSG9MQXVKQWdqbVZRYnZ3VXlVSGktNEE2MndNU1dZX2FFd0YyeW9teDFfN19WNk9RS09rV0JlM2dnbEluVlgydFFJc3QtQ0RNRkRSWkkxV0V6WjNRM21NX0FqRVZLdnp0WWFtNmFWZEh6YUJXXzJRRVU5Sy1MbmtjRm5pc1VVc1daWk9MTmFScG5yRmh4SHZBNno1eUloQXVDRkRVNU5kUQ?oc=5",
-          "published": "Mon, 19 Oct 2026 07:55:20 GMT",
+          "title": "Indian opposition leader Rahul Gandhi acquitted in defamation case, TV channels report",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXRIT3d4cVdiZ2stSmhyMjRvck9uYThSTlR4eVIwSmFHMDJHblJTT2laR3IyS1R6dmpWN2tOZEtsQkx3RTN4REdxcFZlNWFIT1pFS0VET3lxS2I1aVN2VHdOU2FDa2pSTVYyUXM3YmV0VkRFNmFHc29mcm1YVHNRN0pqQ3Vzb2M5czVhWnVqY3N3dWpHMGhGOURlTm9NSmhCc2ZoUklseWYyWUNWVklQczktcXl4TmxfQWU5ZjVZVTc?oc=5",
+          "published": "Mon, 26 Oct 2026 07:09:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Spain's rush to clear Ceuta migrant backlog raises rights concerns",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5",
-          "published": "Mon, 19 Oct 2026 08:10:04 GMT",
+          "title": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWx2akllRU5PaXFQc1RpYXNpX0g1czVlak9RcmVyenpqeUstcklpemh0M3RzRWhBdGVFd3VFU0w0aGZtUjI2NXdJRlF3dkwxX1ctUUxjSXpnSGh0bG05UG1iMmQ0OG05cHVpWFV4VGdsTlFBQzJoTGk4QlhuQkpWRzh0NjZGa1JIVzJGUE40QnZRMl9JQ3Y4aEl6eFFFRXVSTDIwSWRwQlBhSkphN0ZTNF8yMkl5d2VNeVpnVmFScENpMm9GQkpKVjhRdGxPNm1T?oc=5",
+          "published": "Mon, 26 Oct 2026 07:16:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Philippines summons China's envoy over remarks conveying 'threat'",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3FaTkFtc3lTTUZRVGV2WlV4elBHTVlNb2JlcGVIbDEwd29YNlk2Sm1CR043SG1EYmFlT1F6d3Fwb0g2SFl5RHA2c2hkTVZ4TXpnYldWOUZ0N1pvbW90dDlkejFxaUtvRHNfOWJqOGt6Y1Q2Q295c3MtMDJvVlpZVDlFZ3RmQW5nZ2JIUjQwbWl6UDI2cG12YXBhQ0JDR0xEUHlmRDc3eUtKMVRFMENJ?oc=5",
-          "published": "Mon, 19 Oct 2026 08:09:04 GMT",
+          "title": "Gold gains on softer oil prices; Fed decision in focus",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+          "published": "Mon, 26 Oct 2026 05:56:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Arab voter turnout could make or break Netanyahu in Israeli election",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUWlScDFIcENiRk5OaDRHRHNzNjlrdnNxM0VobjJKbWhKcWpfaTNvM2J5U256QV9ZNEY3bGpMWUxhZ29idThSajljTXlpUnZ3Mmp2SmZEVE9hVURJTGxmMkNwUWpZMk85VWFxMGJpcWZEa2dRTVg5WHdNeGZLT1QyOU5CaXpUUnZIOG5MZVF2TUZtREJHSkpYTU13NlZmNGdBRk8yTGhvUWpUQThjUzBCRHA5Nms4Q2RqT0k4?oc=5",
-          "published": "Mon, 19 Oct 2026 07:21:19 GMT",
+          "title": "Large fire breaks out on island off Hong Kong",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXhXUXVCVlRSanltUlpGQWlqZDh6V2JSY0Zuam9IX1dEd2xFQV85ZWM2QmI2OWJQLUhaNi1RakxfYUVWOHQ0OTQ2NWZYdUowU3BOVHJJR3gyZzJDS0N1TFdXSTdJaFNaZ2Q1cFpFYTl3aktxc3dVYnFBSW9ILXRpMlU0LXh5VkVmWWU3THhlS3NvSFVjZ1ZVRDY1enFFckhu?oc=5",
+          "published": "Mon, 26 Oct 2026 07:03:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Cherry or tabasco? Perfumers test weight-loss drug users' appetite for food-inspired scents",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbnpyZUxyMk1YNWg3QmZscE1xc3A0Z3V3OXFRajhLUmF6NFV6UjU0UzFvMFhtRXRlMEt2MGZpcjFBWGYzX1ZLLXpGb1QxWVM3Vl83ekRJTGY2VnpXNXhQeG9CVGxfQk45MVpaTVRGTVM4NkNXemx3VlJYMDZ2b2JROFN0WFJFdDBTVU5TZ0tWa2VhTzJjS0tJN1k4ZGRvODV2c0pKU3pZZ29jRWJDeGFFSzVsMFpCd0czcU1BclVrTk1rRWp6Y0J5bmRFejJ6WlozMzl4dHdn?oc=5",
-          "published": "Mon, 19 Oct 2026 08:27:33 GMT",
+          "title": "India to evacuate thousands as Cyclone Arnab nears eastern coast",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJXZlFWQnFMQ2dMTlpOeUtTcHUxZGR0UWRRR0Nuc0pHaHhrR05QYk01eUlCUUdwZzBWbEdmclA2RzI1RkZkQ1F2Qkc1N25Fd2YtLWNjMEVuaEN0cF9WNWRFaHE5SHpUZUROOWZNQTZCUkNiU3l5bTZpU1pxR285dVk0ZF9HTHZ4WjJVVlhvU0xCVlVqYS04WjhjdzNCU1FNMkhId0xRLV9GbUZFTHp3Mm1kdTBZUQ?oc=5",
+          "published": "Mon, 26 Oct 2026 04:55:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Israeli police arrest suspects over settler attacks on US journalist, European diplomats",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGdXdTZVUC0xd3NJMzJWdlpNS0tySGdmcUlvdl9wWXhIUUdMT3E3WFZPZWFEam1PWDdFUDRRd0trNGduLUZzRWVzWXBoVWt5QkpFMk5lMzhUZU9yNllmbUxlUEZwdk5raGhEUnlyTDBTVldKWkxXSWNndHY4U01Kd3BqM3lEMU85LUZydXF2YUdMOEc5MHh5ajlfb0lNSzh1MXE0TnBEMHNIOXVzX3ZZWGRrRnNrc3Utd2VmTnh4LVIxQ2x3UElRa2hQbm8?oc=5",
-          "published": "Mon, 19 Oct 2026 06:01:00 GMT",
+          "title": "Yasuo Fukuda, Japan's first second-generation prime minister, dies at 90, Nikkei reports",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHhmclVEd2h0UmZvT3JkRTNya2hGdk5OOWgyc3NUZzloWXplMWpncXZNVWNDdFhSdE81RWs2WG5SakFVMFVwVFQ4ZGdMeHNGQ1JpX0dpdndVSkdXYzVNWTNEb01mRkhNbnEtV3VsbnlDMjc1dkMxM0lvdzFSTDktVlIxUEdaeU1mV2JRTXlKOE10UWEwX0I5cnJnQlU2T3B6YXJqYk9OdDV5MlZHVWhnVm5ueUpKRk9pZnVENXJWV1hYZTJDTUtz?oc=5",
+          "published": "Mon, 26 Oct 2026 05:26:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Rubio says Ukraine and Russia should be focused on ending the war",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnlMYkJrU1pjQjZ0cTJGeDV5ckpyX3lsaXJrNjkwQmtjYVlUaGFvZUZuTWJ6THZuXzJ0elVfdGRoSkhRR2ZLelBvQXlDWVRzRWdVdW5KcUNKZU11TzRnQzdTdkpINWVZWWlsMTVYcy1BR1BzbkZRVnBEUWtDUEpER3lTV1dEZnl1OFVkZGtjemVQUjU0SUNxRzBHbktyTzNQQkE3aA?oc=5",
-          "published": "Mon, 19 Oct 2026 05:41:00 GMT",
+          "title": "Drone attack on Russia's Voronezh region kills two men, governor says",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWJ2OWRpallGU2R5N3MwSUNJeERWd0MxQzAtTkFvWHhyUk1IbVZEQmc2QkZkWFFMZ3AyVzg4dC1SUmZRbldFOHlkcjNGX0Jxbkx4OW1ObEJDSldJUmpEUnFwMERydXRielRNdDhoc1BVVXZxWmtvRk10blNVN3Vkdng0ZllBczZ5MmRoQmdjeHFHVVVxc3h1Z3Rvem00OHhQclNZd2F1X1RISkFZWC12UnFXNA?oc=5",
+          "published": "Mon, 26 Oct 2026 06:45:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "As France reels from violence, Macron points to security failings",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFBiSHhMOGNoV0YwYU9VWnhtd19tSWJCX2lrYWltV1dPMmplTmtrTzQ2cklHYk4xZjQtVkRxWDFUUEFNYlYyMmxicnMwNFpFLURhZUVQSGdwLWlQcHJZbmFiSG9YMTloRWNGa0FxcG9vX0RyRUxpeURHUWlKcGgxajdPV3RjbS12YjBxTzVkQjU1OU5BeHFFYUk0cnY1U1hEczdLQnFNWQ?oc=5",
-          "published": "Mon, 19 Oct 2026 05:20:00 GMT",
+          "title": "Investors expect Brazilian stocks, currency to fall after Lula reelected",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
+          "published": "Mon, 26 Oct 2026 04:09:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Six migrants, including infant, die after boat collision off Greece's Lesvos",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWhhQkVUejRES3pkQXhFRDVYY052T1hEOG9RajA0a2ttSDduRFk2VDh6eHotN1k4bTk3ZUN0RmtINzNic2U2ZHJDM3lUeGJEQ19BQzljcER1cG1UUlFHLUU4UGpVSzBobzhrS2gzX0ZNNmxOMmNybVdRX0wyaHhDUmp5aWV2bFR3SWZwNi04QTNPYkV4VWR0LTUtVUxKQm5sakQ0OHBsdkVaYzhieDI2ek8yUzRsUQ?oc=5",
-          "published": "Mon, 19 Oct 2026 06:29:00 GMT",
+          "title": "EXCLUSIVE: How purchases of sanctioned Iranian jet fuel were disguised by Myanmar",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWl4SlBja1R4RkhhaTMxemplMld0aldQMmlzbzdsOVlPMnJFWVNwRVVMa1dnanFtOVctTlEyWjl0SnI4Q3I4TzQ4QU5LRjRtX3BKSXc2RE5tQTNRSWhKYXlvX01QdE1OZWlQc1d4ZkZwWWxVQTVGLUR1NWFVWjZYcFNvNDJXS1hOYXUtVWRQSkdwMVZ5MGtUcHpjUTI3TjZ6M0VZaUdhLVdSTzA5UXkyYXlWUTFyRHlXb0tF?oc=5",
+          "published": "Mon, 26 Oct 2026 04:02:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Putin approves minor Russian government reshuffle",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXFIbEpxSmkybWNGczBUYVEyMnFKYm1GN1BwVTBkaWZDREF1Sk5WcEVFOHVwaTF4YXc2Z0RQcnB2TlNGdTY3bHFMODUtckcwMWdXWUV0eWtLWndTc1A0TTNlcUQ2S2ptUVFYN2hSRWVpMmdyNG1kbk43U0NaOHNYc1BzSHEzck0?oc=5",
-          "published": "Mon, 19 Oct 2026 06:53:00 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    "tuesday": {
-      "updated_at": "2026-10-20T18:25:59.771298+09:00",
-      "articles": [
-        {
-          "title": "As weight-loss drug users turn to dietary supplements, doctors, regulators raise flags",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdmVEQzU5MERjQjV6REw2M3MzbUNZZVlmWmpQdkx6RWh5cm5TbVZiSEpXT1ZuNHhKTzBjZW5QYkJ4SWp0M2xJU1pyU1NxZktrSHJUT01GUmo4TmF1VVhJREtQY0tkYWF3UGZOT2dnOC1qNmxQX29ZYjFEN1g3cV9vc2lwdXZCVjdicGtaeWZYeGxNZ0VfdmM3UWJ5SXJLLThfaTdZM0luN2lmSXVxV2tMSWxPVVVUa204RG1jbGU0RG5ERjJXdDB2b1VrUQ?oc=5",
-          "published": "Tue, 20 Oct 2026 07:36:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkVTcjIwVzllN1R2X0UtNUdya0l1Y1pNWnc4eTItVF9lSVphdC1tMVRHZXdxbEV5dFZ2RjBDZm51Y1NVbU54Q0pHaGpuVTVha1F4ajg2NEY1Y3U1dnZxYTBJVjlTazNObkJnZF94dHRKTkRrazlEMzBSeklRMmlESWNwUk1jTC00YjJhRXFQYXUzMzVjTnVxTVI5V1VfRkNOOENGaHdkWEFZOG9MY0ZLVUU1M2Zib00xc3BHQkFHWUh4ZWNMZUNpcEtR?oc=5",
-          "published": "Tue, 20 Oct 2026 06:14:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "The fake commute: How China's unemployed save face",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGNrUFg3d1QxV2UtNVFtdjY3SUhSdnF3Q29tbEljbmZqUlFIeFB3QmowcEMtbWNWTHFYRXBKLWQwSk1PYmJrbGxiTFZ1c004VTF4SnJLZ1J2MGdwclZxQzNobmdjR2Q1RHE1SVpDWmllRzlzNXlNWmZmalBQN21nRHQtN2dCTXRxNGNKeUZja0d1Z3g4U3JLZjFaa1p6X2VYUFgzc2dB?oc=5",
-          "published": "Tue, 20 Oct 2026 06:05:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "As France erupts, Europe's far right gains from fuel-price anger ahead of elections",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjl5VmhGZHJ1bUpkdTZQaElWaWdnSFVkdVVQOUhzN3Y5SFdHOUNpS0pXQjdsVzhMVm1YOFloSGhHbnNYT29talRoNVJWdlRDVkdCM0VQV1lIUFZSbG9MV3BPclJZZGVtejVZZFNNWWxxdFdBM19hS2pQdHNaWm51MFRFNWxLWHdzVzQwN1ZxeXFFenRPREthTGRvVW9vOW1JdWpiVWk0VE9UQWlqRnZJWEJ0aFVYd2xBR3FN?oc=5",
-          "published": "Tue, 20 Oct 2026 06:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "South Korea to pull more Ukraine embassy staff after POW dispute",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmhoSjZnaVJGWEpDQlNXcXFkRFRCeVRZNTBWVWY1bE9wbXhuQjZrdmQyQ2VtWmNjbUZicE05SXdxUjhFckJRSFJCS0FnUlppUzhaa3ZXNEtrYTRadnhRMXdFM3hZLTBNRk1fRWtCTzBTMVlfYV96akhJZk55OTd4bUtoMnh6cGtHX3hySmtacGd0bUVZUk5tZzBzVkhrT2Q3TzdJcnJ6bmp2YVVDTU16RnE5YlZBbFU3bzE1dkNmVDU3MHhvamZB?oc=5",
-          "published": "Tue, 20 Oct 2026 05:47:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
-          "published": "Tue, 20 Oct 2026 05:47:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Oil majors face spending test from Iran war windfall cash",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
-          "published": "Tue, 20 Oct 2026 06:04:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "China sends naval forces to monitor US warship near disputed shoal",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHozWXlncm9jZTU0NmZiWUk0blJ0cHpVeDNpWm9UVUdscHU1V2MteFNUaFBVNF9tazZib0pwWDU4czUxSTZ1Wmg3WlVlMHlCLU1wYzdDaWNrdmdBT3gyOHUzY3dMbXdqTF91SURON1NLcU02bDhJdE9WaE10eW9OSXJQZzlHcFh5c2k2V1dhQ1lJa2Y3bmdMVlRYbVlqQ3NwekpLaHdvbzBud1M1Sl9DN0lRd3BFWG8zZjV3ZlNB?oc=5",
-          "published": "Tue, 20 Oct 2026 05:13:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Volkswagen bet on Xpeng to save its China business. It's not going to plan",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVF81Q3ZqWE82a1RYZEpkbWFXNWVpMkZ2Z01MRFBUSGpCLUNncGh0S3JnRHJmZ0hYbHJFUTZkSE53Uks3Vm5USC1KcTNTYTdfY19BSHdFdElhUG8zNG5rWHRoNzNzaWVhQkhzRVZfcE1hanNubFRzalNlUHdqc1dHSXZpTXc5SW1zUndSZ1dZdUx5WDlQMGhEM2ZHNWlMdmJqbDM0TGFEbDVCSFE2UmpXYW5oUG5YazBMTFlYS2wyNHJkbFF0dkI0QQ?oc=5",
-          "published": "Tue, 20 Oct 2026 05:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Drone strike in disputed Sudan-South Sudan area kills dozens, minister says",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWVGQ3BzUGZCOUlzMFJqX0FsZEcwLVFDc05mUHpzc0xMRjhteUhENVB2bjgwMFYxV2lsNE1lZUxFbnY5RFdadVlXUkl5TmY4c2MwM1NwcFBEM3Y0ekZwS0lQbUZYeTJjSUd1cjlnbzhMMm1NbGQ0aGNEdTljNEt2cVR0cm0xMl9nVzJyVDdJYlpicXptRm1rVHJpYklId2tocHNzczRnQlZBWEY1WWltTWxMZmJGSDN3dmItaQ?oc=5",
-          "published": "Tue, 20 Oct 2026 05:42:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "As Japan pursues a chip-industry reboot, it's being pressed to build America's",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2l4SE9UYmpaWGdDWERaQTFBMEYwWDNidzZ6X1AxWnJiVXpUdWVQOUVZMzBXWTBpeWdiMGo0eXlCYkFJejV2VDBDQ0NkX0p1TTNNSU5reVNKWDB1U3duU3lzU1FaUmJDNTZrTjk0UDNiQ0dzUlpoYlFENTFBOXNVSkhZVVppeDduLVVueW9VTG9PRXNPcG91b0VxSjU2aEhuYzY4OVNaWmU1WnpWNmdZbzJVN3MyRUF3UTJUWGd0bw?oc=5",
-          "published": "Tue, 20 Oct 2026 04:51:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Morning Bid: Korean canary in the AI coalmine",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzRvZmQwVmlvWktXS2JobXRlck1ZV28yVl82V3pwWnc2UWFmMFpRcDhPSnFfOU5IN3k5dU1YdTFZMkxfWUIzdHpNOUUxWjJ5dWVnUWRMdjJHelpQNkEwWjJIQjhMeGZZX0VDUzloWXNiZGRhUUNmR0QxOE5UMmxYZ0JvVEpCaVVZanAxcjg1Z0J6dkRkZVNr?oc=5",
-          "published": "Tue, 20 Oct 2026 04:37:00 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    "wednesday": {
-      "updated_at": "2026-10-21T18:26:19.623740+09:00",
-      "articles": [
-        {
-          "title": "Cyber agency warns websites may go dark as PHP prepares critical fix",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
-          "published": "Wed, 21 Oct 2026 08:44:20 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "North Korea tells border troops to take 'resolute action' if South threatens their safety",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHllSVpuQVItNDhYcW9GeTVrUkJHVngxel9VR20xQnZVLUlJcHYxYktzQjFoNEpMWkFLcmlWZS1HU2dFMTFSaDZjX3NrNlNQT2ZFS0JqeGJkZ25lREY0ZUZNbVp6clBlbmg4Y1dDMUlyT0RxajZYMTdZU1VUaW9NbjFURGtPbjB0X09ScFJ4UWVnMFRxMFd6VGRFdTBMeDJlQV83NE94SUFFZzJVeGRuVzlndEpMNUIydDRZcXQ0OVlPTFIwQ2RIV1lpeWxZbzB3?oc=5",
-          "published": "Wed, 21 Oct 2026 06:34:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fighter jet crashes in northeast France, at least one person dead",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjRieTdHWUNzMHlHelpvbDNtSE91c1Z2LWVjNlN5djlBQWVraHByNkRRSEpZOE5raDloOE40ZWxUWXNDMmRoQXFEZVNwYzBmSEliSmo0eWxfam5SZ1FpdWFGZXpTWGRRMlJRZDlpRnBaUkdCTVExeXNFaFQtRkhBUS1aY0xGR3dBdjBJdFF2OEVnNGxZcGVkMlpwYnBhblF1YWRMOQ?oc=5",
-          "published": "Wed, 21 Oct 2026 06:53:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Micron says it has reached agreement with Taiwan union",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV193bUJ6bXZZcHp1Q0tId1ZUdU90Um9BR09QOU0wZ0pxNmJtVFhSbVhBMi1hdXY5ajVReHFJSVVseXY2V2Z4N3hEcTEzenJJSVAwRnNCWXVnV1NudWdqalpwenc5eDhBSTVVaUZYZ1kxaTlpcEh4NWRSSkdrMUVZeDhlQTZXU2RFQ3oyZDVwU0tsbFFRRzRIMGpiODVjM0otVUJlVEZRSmV5UGtpYXJBY3B1aw?oc=5",
-          "published": "Wed, 21 Oct 2026 06:23:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVNCYXpqVkgtQlVQZm14SGYyV3g2X1RhVVY1U3UtYW1lT2E0bkM0aUFySmZTbFItNmZwOXpxTWZyR2lqMVZrMVhaaGNQN0M5Zk02ekJ1bzMwMG4zYnVFR2ljNzBXRzNhb1ZOdG5PalE5eHRPaWdhYWtfNzZJV2hpVEJZbEY0Ym9jSHFmR2Q0Uk5rNk5ST2YwZDY4SDRiaVVBVFFNR3FEZVd3UGdEaEVVVUJKMkExSlZvUEpRdi1tTjQ2NWk2U1ZqcTBrYm1YYU1qR1FkbXAzWWQ?oc=5",
-          "published": "Wed, 21 Oct 2026 08:43:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Beauty giants target 'Ozempic face' as boom in obesity drugs opens new market",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzBscFc1bVNobHJsZmJJNHE4dmlON3Viekp4ZDd1R2QwdlZaZkZJc1QyTW9aQmhnOGxmUW14NnFWbFlkSWVDbkJiRjdzdjhLODlSMmd1T2hETGxfbXRnaFo2NFE5UG5vbVNWZ21Zd0tWTDM2NExxaVI4bU5zNTlrbHM2dmhiT1ZOVkwzWVItdHlYeTFESEFSMVRla0hPUzFueUdGVl80NS1IbHJlQWhsakRqN0lsbjF3cF9TODFrMA?oc=5",
-          "published": "Wed, 21 Oct 2026 06:02:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHFiRnNfU1ZqdEFSWG9fQV93dDJCNVQ0NTh2bF9WRmtQcERCbFZlQ3ZVRllOeWVjejY2RGZhNjJzVjV5U19lMUhZV3ZpNTZpcElSbGFaY0dpTUxEaGx4eElobk9qakZXZ3g5LVZqaHV0QTZ3eElMSGdjQzdqT3Y1alVuVDh4NV9RZF9ycmc1bkUyeTVTTnFvVzdUUVFnWXRDb29aQk13YU1OeFBNQ3BFQ2tNRjlCTWFIX2c?oc=5",
-          "published": "Wed, 21 Oct 2026 05:54:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Malaysia bans civil servants from using mapping app Waze, citing links to Israel",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU85S2NnYVlHbGstUGNaTkNxaEpqd1Atbm1ycEZYSEExYWx3bjFjYm40TGVQSG9jaXd5TFdrVDdQRWFxX0JqT0RqeldyMGxqTmhkMlBlNW96b3hnRjh4N2IwMHZsSF9Wc29fSWkxLTVpZnlRZ3NVaFVlY1RtVmRzRG5jbzdidTFhZkdLd1JmMmowX2pkRTcwVlgyYlNuVnNIamQ4Q0hUeFN2ZElxYzZ5dlJRWGJNQmNnaWNNZ2dZcTNCX2FW?oc=5",
-          "published": "Wed, 21 Oct 2026 06:11:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says companies should pay 'dividend' to communities to make data centers popular",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFFhcl9qcUZ1SGk4eFlwa0ZMZ1ZsbC1scnpKT0hVMDdZOWpsX0JudFE0REhVUU4ySGhBZ0VaSWxMOXA0N2lyN0FYVmJFMjBfMks4OERreGNOYWtzZnNCemx6blNJcmhRNEF0aFdmWHVSTDQ4NE1YNTN1ZTJKdlVGWld4b20xTzczWDRyZW1DMGhIcEs0NHE5clRNOEtMcXJCSDNRMDhLYnMxd2JfYWJ6amxldE9IUDF4Zl9rZjY5eHhiNklGZ3IxS1I2ZmlCZnYzNVVnMjdR?oc=5",
-          "published": "Wed, 21 Oct 2026 05:55:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Getty Images files for US bankruptcy, advances restructuring plan",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUQyNW9MZlpIR09iUFlQTktqRGVEa2txRDdMVEVQU2RBbWdOaE56Y21GSDdiVmRkbEw2Um9IYmVxNjRyZUtxUUZQYmR6MmptR19HRWZWNEt2cU8tZjAteFJQX1RRQU1YNEVqY085X3I2Wm5ObzVkQU81cVZ2MlM1TENtYzBidFozMEpPUHVBbHhTVEtjM2J0NjkwQlp6TUhieFY3ZGZQUUpibTVGWVZHTWZBQQ?oc=5",
-          "published": "Wed, 21 Oct 2026 06:39:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Namibia's disputed petroleum bill clears second reading in parliament",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEtfYTRqbTFCUG1sbEJSTlBwSlVGRG0wZVZyN2Nncmplb3JPZ2t0aElTeEhkUDRncllGQ1dHVWpzVUo3QzA5WHpGVmRKQW5DeVdrX0tOMnFjS2YzcVplUjlvZ3VEdk9uSXBYdlI2emdnQVJpRVRNYTcwcVVnNDNEWXJDQU5hZDVubi0tZ090ZEZQSlN0bHBjaU1ZMkJXbXhjOFpSbkl6T3lkSzN2UUI3MHl6QVd3eDBp?oc=5",
-          "published": "Wed, 21 Oct 2026 07:11:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
-          "published": "Wed, 21 Oct 2026 04:49:00 GMT",
+          "title": "Morning Bid: Elections, central banks and earnings on the menu",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc08wOVYzT3pKR0lSY3VtZWt6TkhvTGRieHE2eVJqeTZiZnhzQUFQMFAzd1hlT3l0QS01ZlhlQVZDWWNCUkpiSFg3OEtDcGJLMzNXcnhsRWZrSW5ELTlIZFpnMnl1NkVfZnFwZnFYZGVXUTVJUVJmZ2ZuVFlXWU1oWm9ZOXRVbVZSUGhDX2xKR1Q?oc=5",
+          "published": "Mon, 26 Oct 2026 04:46:00 GMT",
           "source": "Reuters"
         }
       ]
     }
   },
-  "last_updated": "2026-10-21T18:26:19.623740+09:00"
+  "last_updated": "2026-10-26T18:33:08.835071+09:00"
 }
