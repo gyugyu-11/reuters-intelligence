@@ -77,7 +77,84 @@
           "source": "Reuters"
         }
       ]
+    },
+    "wednesday": {
+      "updated_at": "2026-11-04T01:50:43.201483+09:00",
+      "articles": [
+        {
+          "title": "Binance hackers used fake job interview to compromise computer before $6.3 billion attack",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5",
+          "published": "Tue, 03 Nov 2026 15:20:48 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
+          "published": "Tue, 03 Nov 2026 16:35:04 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says US is close to making a trade deal with Canada",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUpBTWJCc1lBeWhlaWFkSEFyYUtsbjg4THBRS3Z1cGs2ZE5BXzhiUGRpNFZsTnZtb2I0eHItTV9McE5BYm90TU5nZXJfMm9wLVc4TkhWNnBIZTlyYXhDX3ZRdzRGSnZCWS16Y0JpNnBYLWZwR2hrVmk3c3pIQXpxUVJ5ZGF4amN5ckhIUGdPS28yUjZkbHEtekFnVVVwQQ?oc=5",
+          "published": "Tue, 03 Nov 2026 14:09:26 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "German climber to make rare winter attempt to scale Everest via West Ridge route",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGFxb09hcXkzbzZyanRITllUYkt0NUxDX0R5RHVNRGRJeDVEUFhEVTdFMXZhQjhJOC1GYS1tbC1VUU42QkFjR3pQYlVGVkdsUmMyVElKM1l4RDhyT0RNQWdIUWpTcl8tcXNER1RMY0FFRG9RN0htU3N5cWI1TUlQNmFYc3NaN3ozT1VVX1pYS1dSSno4dTZJVk9iYzNPT28xaE0wcEU0NGlkRUw1dVpsTHJlVEZxZnc?oc=5",
+          "published": "Tue, 03 Nov 2026 14:05:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Hungary's former PM Orban says he rebuffed secret police recruitment",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODlCc0ZrVjdncTQ5RmdDblA1THBZTlJSV2oxMDY0NERSMVB2QURibVlxckU4bzBkSzFMSmNDbjdZOFVJLWdEOEF6TW0tb1J4djE3NkNpUnBWX2RlSGJ2SVNRa19aZnFnNGxLWDZmd1hmNWt6SGZsOUE4OG1pWHBFdG8yQXhyYUQwbGwyN3VNcTlacDAwNmNFS19lSmRfREx4cVdzZGRrVEhmY1FuQVE?oc=5",
+          "published": "Tue, 03 Nov 2026 14:25:43 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Merz promises more support for Ukraine, warns Russia over Black Sea attacks",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSV9mOTV1Vk9sWkR4dUVINFB3YkVXZTFMYnE4WWZUV2d3NFd3eHBJYm10RWdYRzNmbThfZzZ6dDlYSXplSm1yeTBfUk92UE1SSG1NVThkYWd4c2RZN3FkcWVwM3luTmNWdTI4ZThiMEJZa2NGOEZTWGRsSmw3SFNwQ2pUY04wd1VFLTRVQW9kRUc4OWpBY1lRMFNYQTFfVGJLbjZTMEZlVVNJNnRMa0JrWDc0OXlqTjJZQVNr?oc=5",
+          "published": "Tue, 03 Nov 2026 13:48:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump's Justice Dept identifies where US election monitors will be in the 50 states",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGRoZ2w1TlIydE5odC15MjNOMlpTV3hMcFRwaDBPbmFVUzRBUkp4RXVpUnl3MHZuZmhVVFhXVDRkSFl4ZmUzVWsxczFwRHMzNU43WUhPbWlZTWUyTE1lQ3VzWko2SDBzLUMxc213T3ppaHlfcjl4MVdCNFY2TkZYWnJ2U1VWek9SckwzaG1zTXQwdDZTUmk3blZsQVFqMVdPN3Y0N05rOWU0MFJRc2xER25jcDBUeHp6Unhsd3JDLTJGekRjcTN3?oc=5",
+          "published": "Tue, 03 Nov 2026 16:45:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Melania Trump to host Russia, Ukraine representatives at White House",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2VWR0Rjam8xQXlJTm9Zd1Z2a21QTjhxczVTTUFobmxoT3A1S2d1OEJKdUZveWNYbk9GcDdSOWFUQXJSdmRkU0NGT1k2T25HWXhFWDdoWmg1RnJ6WTJSQzZwak9GMmF4MGlZYXVXRzJYazZWM0lEV2dISUJaVHZ5b3hKYjNCT3VEaEJKZjBWY0htZTNUNHhURjhxTzR6WUZPV0lkWnRR?oc=5",
+          "published": "Tue, 03 Nov 2026 13:06:00 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia trying to foment 'instability' in Poland, PM Tusk says",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEJlRjhuOGRzMGV2M1dKQkpWWV9ISHR0M1dtMHdUNXQ3QkZiOFlyUWJLa2hmYkN4aW14Snd1ejlzNnVoX21DLWpieGdJdlpmaHpCQ09qRGhYLWFFcEo0OGt1TXktRTF0WTk0QmJrWGxaM0J0bzFnU3FVZ09ZVjZMT2Ffa2U4RXhqb3pGNE8zUmtQZ25uTEtOWFlB?oc=5",
+          "published": "Tue, 03 Nov 2026 13:19:44 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Syria says it foiled Hezbollah plot to attack Homs oil refinery",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0hXS05BXzBXMWN6UkowWERwWUVYaUhnMzFIYUtvTC14WDJfUjIyWXpfVnV1UGRLT0pqYTVyaXNJSTZ5djYtZ0xpWmtmWG1LODZqUWRBOUNQbjlvLVFxVjF3RGprQmNmdmJLdDdSY2UtTncwUjRVcnR2RXZ2enZzTDQ5QklpOUU4Y0c2MVVmaVdTOW16amNkcVg1WGhEVWFNMkk3dU5wemF2ZVBGZEdDcWU3c3c?oc=5",
+          "published": "Tue, 03 Nov 2026 14:30:46 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Marathon beats quarterly estimates, to sell two refineries to CVR Energy",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYk1jSlk5alhjdDdoMVY1U240WngyaDYwVGhJWUtKX2tmdDBaTXJ5MXlCaGZ5VVJjRTNRZE9nWHo2UkdjbXlDT0h6RE0tNTJFZlYxT2RRN1M5TTJTS2hUV25nMnRUbzNBeGhlalI0bjFIejktLUkwZ3QtLThGU1g1R3pnYkhjVHk0Q2VHb2tjNHFZT0xNWC1zRWhrOG9zWnFCaVJYQm1KZkhKTFhYMlVuMTFuVmtLR3VM?oc=5",
+          "published": "Tue, 03 Nov 2026 13:15:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fiserv cuts 3,000 employees and contractor jobs under new CEO",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmkydUVybDNIcXM0MXFSNERUa0VibktuX0pNRjc3NzJrS1ZxaUx1ckRsbUxmbV8tSElVZnRBUkxBdTdPOVpXbWp2Vkp5UDlwR2oxSC05VE5PMGgyZS1hWGNRTHVIS0laQzFpSWRBc1E2ZmJpSUZVX28yT256dHJYWmtVQUpnUlIySk9NMG5tcUUyQTkwRXRsMWFaVGNXSXRYdENzMWJYdU11eHlGOWl0RW82RXJXZw?oc=5",
+          "published": "Tue, 03 Nov 2026 15:21:08 GMT",
+          "source": "Reuters"
+        }
+      ]
     }
   },
-  "last_updated": "2026-11-02T18:52:14.192955+09:00"
+  "last_updated": "2026-11-04T01:50:43.201483+09:00"
 }
