@@ -1,160 +1,83 @@
 {
-  "week": "2026-W45",
+  "week": "2026-W46",
   "days": {
-    "monday": {
-      "updated_at": "2026-11-02T18:52:14.192955+09:00",
+    "tuesday": {
+      "updated_at": "2026-11-10T04:30:21.696329+09:00",
       "articles": [
         {
-          "title": "EXCLUSIVE: India markets regulator backs removal of long-term capital gains tax for foreign investors, sources say",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzZGZDRyZ3dzMWVMcEp4bmVRbGNoRFdhODFvSDFjZmplU1VDRXNleUs1MElLczNVRHN5WS0xc2phWXFZaktGQ1pqelBPbjRfeWRLSFBqajEzRU43bWxpUkZtNVM4VGs0LVVUMzVlbW13X0FGZlJLWWZDZmpscXV4NVBNemxXZ2RhZEozakVfRlNWb3E0MTlEYlhveXRZVHVmeUozNkJ4RjBBQTR2TUt2QnJZajV1SVRMZUEyMG5n?oc=5",
-          "published": "Mon, 02 Nov 2026 06:38:00 GMT",
+          "title": "Trump's close ties to Nvidia's Huang scrutinized after foreign intelligence concerns",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWVFLU9IdFNEUzFUaXdxTC1PZ3VrOElsd1BDMXE4ckx1ZmdLWnBBMjZtTUF3MXBXcVJLRVJmbFZ0MnhNakc1czRyNFRFSzVZX29adEw3ZjV4aGRycmVwVmQ0RGZpaWxmWXJ2NUQ5U1ptVkVISXdOdjFnaGdkZGNBVVI2OHdiVVVYWEpZNEhMZ3NtckVDYi1mMHU0VUJHcDN1dEF1NmxkNEZxZGpOWjRtM1cyVTgxT256SFNDOEdBZ3I4MThjY0E4bVF1ZERTV2c?oc=5",
+          "published": "Mon, 09 Nov 2026 18:22:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bulgaria's Iotova wins presidential runoff, near-final results show",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjN2Q2FvbFlwQ1R1Y1h0T2sweW5XdmFzLThZS3JLWE5HRnoxdTFoc3VQX09hNy05NGcxeXhzblBkd0JEc0tkOUM5YVkzTkVRZzRBVDQyNFNXekVXeVhhRjJjWGhpM3BHZVpjbTd2UFRhQzJlVGdmSzhmSGRwNXRPRFNzYVNUZXh4V3lSVmVIdVRmVVJjTWRraVl6SDRqN0gwNEliX0tEcjVMLU9ZeG1LMEZUajM?oc=5",
-          "published": "Mon, 02 Nov 2026 06:42:00 GMT",
+          "title": "Two arrested near White House in separate incidents, Secret Service says",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW9QcVFUNXlLNjJXVk94TkxESXlGMFZNckt6X2NoMzNVYkl5WFhuQWVYZUEwLS15bFBCRnBVMjNtM0pkRkNYd3RtSmNqSVZ0TEt4UmZHMzhLRENEamlsUENmQi1lM2p5OWtycVJxTzlpMkRDWXJWQ2JMMTJ0d0N0YWVMSGtDS0drOF9WaHdYN3V0czhCMHVXYVVGZ09XNExhSDRKeGwyNzRIWWFPVjJGbGtiMA?oc=5",
+          "published": "Mon, 09 Nov 2026 17:03:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "As Europe's right advances, Germany's AfD rethinks its anti-euro roots",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2xLaXNFaGMzRzY1MFpOV01sWml1NWpDTTJQN0NEcDhEcUdOSEUzaWliRzIyeG9JR0RwakZ2UFlPR05sWjRyZXR0dFFud0xMdkpMM3pEbHFVaWRiZmhpczMtQW9TNGZrT09JZzZUNVUtalRGS0ZjR0JHTGduNlhLUC1JSzhUTHVDc2dmUDd2emtRUmVreXVLNjRGczA3QzdtVTUyTWVlU3F0QQ?oc=5",
-          "published": "Mon, 02 Nov 2026 06:04:00 GMT",
+          "title": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMERscVA0bmtmSTlEYWRSTzV1bzVFVnFOQnR4ZjMtMzgyR0o0aFpzVmZDTklKMjUxZ2ptTTU2ZlA3UzRiNU1HUFIzd2gycHliSlo3ZkpOMk93akxqcjdQX05iSWZuQU9ZWlV2Q2o5cV80TTBqckFzOFlOREtOTHR4dVpFb29ZRkRTbDl3RGJrN0FrNEp1aGdTeVN2bkR3UlNYa0padDRqTTNINlNNdzVzTG9CcjlZV2tUaFV2SHlxcENUS28?oc=5",
+          "published": "Mon, 09 Nov 2026 17:06:48 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazUtcTBWVFNLd21jTk9YOFRDRHoyc2ZuV1haZ21JaUdIei1leFkxVVF5V0JpLXJGdV9raXhrV0k0bU1xM0g5TnR6cTA5dWNFZ3VVVUo1UHVyU3pUUWw0YjFreXNTZ3Q4TXdoazBwT1dxRU52bTkxMXlEbG95LVY1eUlLMGZHUk9hQUd4aVZxWkxMUzBMVmhELWNpaUhSaGR3V19UYy00R3UzMUVkWU80ZHl0aW9URGdlQ19RX2dmZHFreHNS?oc=5",
-          "published": "Mon, 02 Nov 2026 06:25:00 GMT",
+          "title": "Saudi East-West oil pipeline hit in Medina region, state media reports",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5",
+          "published": "Mon, 09 Nov 2026 17:43:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "How Russia is seizing resorts along the Sea of Azov in occupied Ukraine",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2Q2bUpzczY5RjJkTXZ6R1NzR1lLdnhuSUYyZUJXVUppYVlDSEJRby1oOWxmQXpvdjJIZ2xBUkdiMVlKb3JFVzIzaXYxbEFHTHdGOHZ1WllWd3BwVnBZblVydGt5WEl1WUUzZFBmRG1PSmZ2STFiRGkzNDItMHN4OG1SbWJqWlVWWTZlWm5seXRaYXM1?oc=5",
-          "published": "Mon, 02 Nov 2026 06:00:00 GMT",
+          "title": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5",
+          "published": "Mon, 09 Nov 2026 18:43:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-          "published": "Mon, 02 Nov 2026 06:40:00 GMT",
+          "title": "Anthropic must face lawsuit over Claude subscription marketing",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZtZzZWNUh2ejlBRmZIQ2prdlNzWnlNTFFkOFZXRWJCaXpBdzVtaUk3cDBXZG1uUXdEaEdqZHNtSWF5N2o4Ni1xdjkzVHp0azBKQTFZb0k0ZVpDYU5id2l3ZTdtNlltZVJyNUhRZjIxWDluWHd4TW5YLXhCcHNlejNyamFlZjZUbWJsaS1yb0VGZDJFQnJXZUhaNmNoUEJjM2s3TWltbFREMmNMVkdDbkNLaXNJQQ?oc=5",
+          "published": "Mon, 09 Nov 2026 17:40:04 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Ex-Shell CEO van Beurden to chair Castrol as Stonepeak closes deal with BP",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjNwY3NiVk5pTUVWSTN4RUI0Zi1ZV0d6d29DX1pPRGxGd3NHLS1HaGhqTGJvQjZfV3Q2THJ5RTl1V2lqMHQ2T2FnRGVOaU96QzVVZURGLXktY2FSUkducnFJZ0czTXgyc3dRdnBKOFp0V2pQNmpQaGtRaE12S0ppdlVBWEtmWjBvdk9oM3FFdldaYkJJZ0FIZWZOZDVPSlJsWmc?oc=5",
-          "published": "Mon, 02 Nov 2026 07:07:00 GMT",
+          "title": "US vows to speed up deployment of counter-drone systems to address threats",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlhuQjFFMzFiTkdfNTFPVmhTYzR0dnUxNVdadHhVVWRITjlPaEFnWm92QXBoR0tIVW1rQXNQODllLTNQUkVHMUVmSFI4emRCTVc3NVVONkRNci03UUlXa1VUcV9vSkx3dWxYUjdJNlEwcEVvZmRiUlZrWTRaN243dGcwZW96SkhCeVhVblNzd0NqODROVncyeEo3aGVRX3FqZ09iMEozSFVLQ2NITTh4N0d5U0RvNExIT3J0Z0FaLUZPanNfXzJB?oc=5",
+          "published": "Mon, 09 Nov 2026 17:09:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Morning Bid: Markets hope for relief in Apple margins",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrejNZSlQ0dURSRXVLTjBMcjMybUZkek44OHdDal9La2E5SWtTb21SVG80MkkxMFloTDQzTXNpU2V1dHVzek00T2E2Z2FJUDNmRGdrSXRaVnFwRFdxZWtZMWRaWklwc3FEREhEQkNWWFpWcGJIUHNTR1RzMG1GSTA?oc=5",
-          "published": "Mon, 02 Nov 2026 05:35:00 GMT",
+          "title": "Boeing to cut 5% of commercial jet workforce amid production struggles",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVdQLTVQc2wtZzFUaDBNM3phQnpkZ0dfUlBXY2N3Z1BYcnZ3ajlMVjByY0gtcXExaWx5Qmx6T2M5LS1TMVhKb21teGtmZ082TmdoRGhGZkQwMTlqQzhncDFZaDhhNW9Rbml4VVZRSTZlTGRGb29JYW1pVUsxNUt4amNpdTlVTmRxZmdTMk0zNW55UXRLSHE5a0ZpZDFJenQwd2hPWjZ0UFZ2NzhiYl9meWphV0YzR1REZWNSOGRuMDZHTl9qdE1odw?oc=5",
+          "published": "Mon, 09 Nov 2026 19:18:40 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bangladesh garment factories reopen as wage protests keep industry on edge",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWE5xeUt1RXNwdmsyMTV5dmRha016LTYteVloSkh1NGx4Nm5jX1UxZl9heDBGQzJ3NURzMmxQNTBsOGNJczRjMllIcjZXMC1WZm9lRHRLcFVlUUpVdXNrRzhlSEpNb2c3Q1dkUDFORWF1bU9hR2FvdmJxUVRmR1lwOU9GQ2hEMjJzdlRjWFNLTW9mMzhrWklZT3hXZ1JvMGxjVC1idHAwVlpYc05DLTN2cGcyTTFETFhtRjdTNC04Rkw?oc=5",
-          "published": "Mon, 02 Nov 2026 05:08:00 GMT",
+          "title": "Head of US Justice Department's civil division resigns, says Blanche",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXRyTEtYNzJHemlndGF1QmMyd29vN25Id2VpUXlXb24xVWczTHphdDR2Tks3NUlGX19kY19MTzVhNmhjYUxrdmx2NmtQbS1MNklrM05sckVJUy11N1dPWXVGTDctcWNBM2xMZ1RQRHhBTnlqTDdzNm5WckRMM1BWMVRlS0RtZ2dvMG1BUm55VnRqRlE2eDM5Y0hVU3dTb0JVNlAyR2xSQ0NycGJnQWdOanpxSQ?oc=5",
+          "published": "Mon, 09 Nov 2026 16:10:47 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Apple's new CEO Ternus to face first earnings test as memory costs surge",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUl3TDYxM3pONVd4QUM2TVlWdnRRY28tSnNuN1YwT3JibW1hX1hsYTByY3dJcURaLW56QXc3dVU3WlFaOXlLOXJjd09MTVZtNWxKam1WRlh2THFxSHJobUdnc1hQNVJTaDNULTNGcGhMTVg0b2piUDRNdnUwOXhpQ0U1cTI2Zzg1VV94MXhxYmhHdlBJcW04OU9mVHJGVXAxdFpPQVZVUGJNa3h1UmhGM2xTajV3bkJfQnRBeFk5bjZwNGxJ?oc=5",
-          "published": "Mon, 02 Nov 2026 05:05:00 GMT",
+          "title": "US FDA orders new eye risk warnings for Ozempic, Zepbound",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG9HX0xJekVOS0FKR3BLMDJBSVJ6SEFrd2FSTU1aUmp1bTR0Vzl6V2Ewand4MTNVbGlTSXhFZEtGM19WZzhieEZrN3paaW1PWUVkZHlWdy1YalQ1OFlWblV4REdtc1hMQzlzTWJmWFRVRmNnNDdVY05oS292b00yTHQtZnh5djFrbTBpdGJDUnJ3akQ0ZlZoRzhaUXRDMXRURFhuM3lySkg4bnBmeDQyN0NjYXJIMDJJRW1LSUhxNHR0Zw?oc=5",
+          "published": "Mon, 09 Nov 2026 17:35:23 GMT",
           "source": "Reuters"
         },
         {
-          "title": "South Africa's splintering vote sets up multi-party battle for cities",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGpUWXpzRUoxQXdGVm00OGhlVF9hZ2FSLU1MeEVxeGtxRnYyak10QTJBMUw4ak1yRUlRX1pjZDNmbjVTcWlYcHBfVmJKbUYxejloTEc3MWhCZ1FsSmpjN21jbEdHamlxUjBRSV9rMUdYbW5NUEhhQnB4OHVUc0FXVVdCZjl5V3FHUkV4cWxfVHE4V0VKdThhb3dNUlNoMU9lYk42X3Qtd3FZNUM2cGVjTkFnTQ?oc=5",
-          "published": "Mon, 02 Nov 2026 07:02:00 GMT",
+          "title": "Karniol-Tambour to leave Bridgewater to lead Canada's sovereign fund",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzc4bWlvM0cxYzV3cC0za3dLNWZPeWZkOE9vdmstYTg5Vjl1TVFFRVVGR2J1SWQ4YW9Wd2V3RTVCOFlSeDlEYkptcW1naFZmdFJnOXNfa1BIQzhPQktkMUZCV2xmZ0pfWlAtMTJpU0hIdTdmaVNwbFV6S3l5VWpPRHpZZEl2WmR6cTF1bnBGVy1vRjVOcWY1YUxOd3c3d0JCNndrUUwwWDl5M3V3VTFvX0RB?oc=5",
+          "published": "Mon, 09 Nov 2026 16:33:05 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Gold rises on softer oil; markets parse Fed signals",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
-          "published": "Mon, 02 Nov 2026 05:04:00 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    "wednesday": {
-      "updated_at": "2026-11-04T01:50:43.201483+09:00",
-      "articles": [
-        {
-          "title": "Binance hackers used fake job interview to compromise computer before $6.3 billion attack",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHZFVzJneVFEOFFQSm5yVXh2T0Z4Nk1mZkhpSzZHQkJvbkdDVVhyMjJ6dnRZb2J6cEowUVB3UU4tRUVJX2wtRVkxdE5xVjh4WFMwVkFMeGRnUTIwd0lkNERVNUpETVQta2paOWV4bkVfczhVWE9OTzNqa3hLWlBxY1JJV0pablZ3dDVIdUd3RVJmaFRrMkNOeGdyaWRNeGRkVHZhOHUwWnlHV3g4cUVPbS1KZkM3aWc?oc=5",
-          "published": "Tue, 03 Nov 2026 15:20:48 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
-          "published": "Tue, 03 Nov 2026 16:35:04 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says US is close to making a trade deal with Canada",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUpBTWJCc1lBeWhlaWFkSEFyYUtsbjg4THBRS3Z1cGs2ZE5BXzhiUGRpNFZsTnZtb2I0eHItTV9McE5BYm90TU5nZXJfMm9wLVc4TkhWNnBIZTlyYXhDX3ZRdzRGSnZCWS16Y0JpNnBYLWZwR2hrVmk3c3pIQXpxUVJ5ZGF4amN5ckhIUGdPS28yUjZkbHEtekFnVVVwQQ?oc=5",
-          "published": "Tue, 03 Nov 2026 14:09:26 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "German climber to make rare winter attempt to scale Everest via West Ridge route",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGFxb09hcXkzbzZyanRITllUYkt0NUxDX0R5RHVNRGRJeDVEUFhEVTdFMXZhQjhJOC1GYS1tbC1VUU42QkFjR3pQYlVGVkdsUmMyVElKM1l4RDhyT0RNQWdIUWpTcl8tcXNER1RMY0FFRG9RN0htU3N5cWI1TUlQNmFYc3NaN3ozT1VVX1pYS1dSSno4dTZJVk9iYzNPT28xaE0wcEU0NGlkRUw1dVpsTHJlVEZxZnc?oc=5",
-          "published": "Tue, 03 Nov 2026 14:05:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Hungary's former PM Orban says he rebuffed secret police recruitment",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNODlCc0ZrVjdncTQ5RmdDblA1THBZTlJSV2oxMDY0NERSMVB2QURibVlxckU4bzBkSzFMSmNDbjdZOFVJLWdEOEF6TW0tb1J4djE3NkNpUnBWX2RlSGJ2SVNRa19aZnFnNGxLWDZmd1hmNWt6SGZsOUE4OG1pWHBFdG8yQXhyYUQwbGwyN3VNcTlacDAwNmNFS19lSmRfREx4cVdzZGRrVEhmY1FuQVE?oc=5",
-          "published": "Tue, 03 Nov 2026 14:25:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Merz promises more support for Ukraine, warns Russia over Black Sea attacks",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSV9mOTV1Vk9sWkR4dUVINFB3YkVXZTFMYnE4WWZUV2d3NFd3eHBJYm10RWdYRzNmbThfZzZ6dDlYSXplSm1yeTBfUk92UE1SSG1NVThkYWd4c2RZN3FkcWVwM3luTmNWdTI4ZThiMEJZa2NGOEZTWGRsSmw3SFNwQ2pUY04wd1VFLTRVQW9kRUc4OWpBY1lRMFNYQTFfVGJLbjZTMEZlVVNJNnRMa0JrWDc0OXlqTjJZQVNr?oc=5",
-          "published": "Tue, 03 Nov 2026 13:48:52 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump's Justice Dept identifies where US election monitors will be in the 50 states",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGRoZ2w1TlIydE5odC15MjNOMlpTV3hMcFRwaDBPbmFVUzRBUkp4RXVpUnl3MHZuZmhVVFhXVDRkSFl4ZmUzVWsxczFwRHMzNU43WUhPbWlZTWUyTE1lQ3VzWko2SDBzLUMxc213T3ppaHlfcjl4MVdCNFY2TkZYWnJ2U1VWek9SckwzaG1zTXQwdDZTUmk3blZsQVFqMVdPN3Y0N05rOWU0MFJRc2xER25jcDBUeHp6Unhsd3JDLTJGekRjcTN3?oc=5",
-          "published": "Tue, 03 Nov 2026 16:45:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Melania Trump to host Russia, Ukraine representatives at White House",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2VWR0Rjam8xQXlJTm9Zd1Z2a21QTjhxczVTTUFobmxoT3A1S2d1OEJKdUZveWNYbk9GcDdSOWFUQXJSdmRkU0NGT1k2T25HWXhFWDdoWmg1RnJ6WTJSQzZwak9GMmF4MGlZYXVXRzJYazZWM0lEV2dISUJaVHZ5b3hKYjNCT3VEaEJKZjBWY0htZTNUNHhURjhxTzR6WUZPV0lkWnRR?oc=5",
-          "published": "Tue, 03 Nov 2026 13:06:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Russia trying to foment 'instability' in Poland, PM Tusk says",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEJlRjhuOGRzMGV2M1dKQkpWWV9ISHR0M1dtMHdUNXQ3QkZiOFlyUWJLa2hmYkN4aW14Snd1ejlzNnVoX21DLWpieGdJdlpmaHpCQ09qRGhYLWFFcEo0OGt1TXktRTF0WTk0QmJrWGxaM0J0bzFnU3FVZ09ZVjZMT2Ffa2U4RXhqb3pGNE8zUmtQZ25uTEtOWFlB?oc=5",
-          "published": "Tue, 03 Nov 2026 13:19:44 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Syria says it foiled Hezbollah plot to attack Homs oil refinery",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0hXS05BXzBXMWN6UkowWERwWUVYaUhnMzFIYUtvTC14WDJfUjIyWXpfVnV1UGRLT0pqYTVyaXNJSTZ5djYtZ0xpWmtmWG1LODZqUWRBOUNQbjlvLVFxVjF3RGprQmNmdmJLdDdSY2UtTncwUjRVcnR2RXZ2enZzTDQ5QklpOUU4Y0c2MVVmaVdTOW16amNkcVg1WGhEVWFNMkk3dU5wemF2ZVBGZEdDcWU3c3c?oc=5",
-          "published": "Tue, 03 Nov 2026 14:30:46 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Marathon beats quarterly estimates, to sell two refineries to CVR Energy",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYk1jSlk5alhjdDdoMVY1U240WngyaDYwVGhJWUtKX2tmdDBaTXJ5MXlCaGZ5VVJjRTNRZE9nWHo2UkdjbXlDT0h6RE0tNTJFZlYxT2RRN1M5TTJTS2hUV25nMnRUbzNBeGhlalI0bjFIejktLUkwZ3QtLThGU1g1R3pnYkhjVHk0Q2VHb2tjNHFZT0xNWC1zRWhrOG9zWnFCaVJYQm1KZkhKTFhYMlVuMTFuVmtLR3VM?oc=5",
-          "published": "Tue, 03 Nov 2026 13:15:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fiserv cuts 3,000 employees and contractor jobs under new CEO",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmkydUVybDNIcXM0MXFSNERUa0VibktuX0pNRjc3NzJrS1ZxaUx1ckRsbUxmbV8tSElVZnRBUkxBdTdPOVpXbWp2Vkp5UDlwR2oxSC05VE5PMGgyZS1hWGNRTHVIS0laQzFpSWRBc1E2ZmJpSUZVX28yT256dHJYWmtVQUpnUlIySk9NMG5tcUUyQTkwRXRsMWFaVGNXSXRYdENzMWJYdU11eHlGOWl0RW82RXJXZw?oc=5",
-          "published": "Tue, 03 Nov 2026 15:21:08 GMT",
+          "title": "Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRENQMlVnSU1PdXZ1cHhWUU9kRnhzSXRLaXBNZWZlR1RRV0xtZmo4aW05SjVnbXRlblJFaW9UUGxaWXE0QzVYcno2QUJuUGY4SHlUbmFzazRfMjc2Mmh5Umk1M292djBpVG9EY1FjVHJZZDlGVVAtNFdUQjFNcnZWZF9Zdl9pQWxMM0ZHQTNTSlhtRWVFQjloaUROZkJ4QUtLYkNOdkhrYXNOM3FYZ1cycTFDai1vd2FveVVBdW9xQ3FqeklOcEVfdUhn?oc=5",
+          "published": "Mon, 09 Nov 2026 15:43:10 GMT",
           "source": "Reuters"
         }
       ]
     }
   },
-  "last_updated": "2026-11-04T01:50:43.201483+09:00"
+  "last_updated": "2026-11-10T04:30:21.696329+09:00"
 }
