@@ -77,7 +77,84 @@
           "source": "Reuters"
         }
       ]
+    },
+    "wednesday": {
+      "updated_at": "2026-11-11T01:47:39.757346+09:00",
+      "articles": [
+        {
+          "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
+          "published": "Tue, 10 Nov 2026 15:51:13 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rubio says no need for major combat operations on Iran given US economic campaign",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
+          "published": "Tue, 10 Nov 2026 14:28:18 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5",
+          "published": "Tue, 10 Nov 2026 14:16:09 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Portugal braces for Storm Charles; to shut schools, ready rescue teams",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdndjVVY4Nm84RWV4bjBLUldOM0JlZUdFQjQ3UTB3Y3U2d0w0bG84dFNPRm9BVE5fbzV0NnNzRTNGdkhmQXg4Uy1NSXowMTYwYmtKUDBDMTJjNjZ3ZkU4T0hoa3VIeFVaTVk0eklpRDFCcE9RUU5icXMydjJkNHNycHhRZHI3U3M1aVpHUGpubjVzR1ktbmRYQTQyWVg0dmZrRFZnUl9ldzJQc0puZXQtUy1scURjXzhFVnc?oc=5",
+          "published": "Tue, 10 Nov 2026 13:52:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "US consumer prices increase strongly for third straight month in October",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
+          "published": "Tue, 10 Nov 2026 15:33:25 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "What are the impeachment articles facing Pete Hegseth?",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2NMbXZsZWM1TUpORFVzUVhKMFIyS3VPSk5SRHZkQ1VCcjhJU3JReEI3N3NSbW9vRGc0R3Z4WTZWWllUbEU0ODRJWkxxOXVLNy1uQTBCbWNtWlNYY0ZRUWstcWU4dlhUaVgtU2pqMW9wWkltVDBYUGxNblFDZU1aSmd5eXgzYzZfcy1TWDRNOEc1WlJIZ2IwVDJR?oc=5",
+          "published": "Tue, 10 Nov 2026 15:01:28 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Defiant Hegseth blasts impeachment effort ahead of House vote",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+          "published": "Tue, 10 Nov 2026 15:15:07 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "France's president and wife file new lawsuit against US podcaster Owens",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3Fiby1UYmJ1YV9XRExveE5ZVHRIM2ZYWnNLR0RONDRTYkYyX3RvaTNZV2tzeEIyTXAzcF96dnRCcjlRanpNdFl5TjVybkdWcGJFMXVUY1VXbWFSLUNkRjR5RDNLb0l1b1V0MWJzMDRsb3EyM2U1bERQRjlGQXdrZkdkQTNlR0ZLckw4ak1hZW9pMlRXd3JRanpucHJpU2RSYXZuSGJLbC1LMlJqcXhpTjdxaVJOdHZVdzNz?oc=5",
+          "published": "Tue, 10 Nov 2026 12:39:49 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
+          "published": "Tue, 10 Nov 2026 14:35:08 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "EXCLUSIVE: Recent Ukrainian attacks have reduced Russia's oil processing capacity by 30%, sources say",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXJUZnFVTVJmR25VaW9YQkhwMTJEM0FzTWVHLXRZOFpXV09zN18zd1RIOThGTHdiVUVmbVFnbnJqRUhfQzdSQzBDTHFLUUxtSEI3YkZyNFQ0RzdlQ3oxMVRHb1d2YUNBa3hIbWQ3VWxmYTBNaWpiVmdjOXB4ZDlzMFhQQk10a1FZWkhWem81TGNaS0JFc25FNUV6eFVhd2RIYldEQTlCU051VUFlalpnSlBoYzdOVFFFNVN4cjNjRjVuX05jNGc?oc=5",
+          "published": "Tue, 10 Nov 2026 12:19:36 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+          "published": "Tue, 10 Nov 2026 12:14:40 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+          "published": "Tue, 10 Nov 2026 12:56:21 GMT",
+          "source": "Reuters"
+        }
+      ]
     }
   },
-  "last_updated": "2026-11-10T04:30:21.696329+09:00"
+  "last_updated": "2026-11-11T01:47:39.757346+09:00"
 }
