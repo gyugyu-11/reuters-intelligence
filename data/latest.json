@@ -1,160 +1,83 @@
 {
-  "week": "2026-W46",
+  "week": "2026-W47",
   "days": {
     "tuesday": {
-      "updated_at": "2026-11-10T04:30:21.696329+09:00",
+      "updated_at": "2026-11-17T04:16:38.122979+09:00",
       "articles": [
         {
-          "title": "Trump's close ties to Nvidia's Huang scrutinized after foreign intelligence concerns",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWVFLU9IdFNEUzFUaXdxTC1PZ3VrOElsd1BDMXE4ckx1ZmdLWnBBMjZtTUF3MXBXcVJLRVJmbFZ0MnhNakc1czRyNFRFSzVZX29adEw3ZjV4aGRycmVwVmQ0RGZpaWxmWXJ2NUQ5U1ptVkVISXdOdjFnaGdkZGNBVVI2OHdiVVVYWEpZNEhMZ3NtckVDYi1mMHU0VUJHcDN1dEF1NmxkNEZxZGpOWjRtM1cyVTgxT256SFNDOEdBZ3I4MThjY0E4bVF1ZERTV2c?oc=5",
-          "published": "Mon, 09 Nov 2026 18:22:12 GMT",
+          "title": "Fed's Warsh says emerging technologies will have 'significant impact,' but risks need to be watched",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
+          "published": "Mon, 16 Nov 2026 17:06:57 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Two arrested near White House in separate incidents, Secret Service says",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW9QcVFUNXlLNjJXVk94TkxESXlGMFZNckt6X2NoMzNVYkl5WFhuQWVYZUEwLS15bFBCRnBVMjNtM0pkRkNYd3RtSmNqSVZ0TEt4UmZHMzhLRENEamlsUENmQi1lM2p5OWtycVJxTzlpMkRDWXJWQ2JMMTJ0d0N0YWVMSGtDS0drOF9WaHdYN3V0czhCMHVXYVVGZ09XNExhSDRKeGwyNzRIWWFPVjJGbGtiMA?oc=5",
-          "published": "Mon, 09 Nov 2026 17:03:43 GMT",
+          "title": "Trump backs potential return of Jensen Huang as Nvidia CEO",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXlLTW9ld2U2cjRMU3pVOFBtOEhlQzE2TnlxazhiOHltQU9icEhwRmhvUFRhWC1uQzJ0bldzQmhJcnNsMmVFVHJhY1hEcWdNcG9KLWJoWlVKSlNHOEZvREdCQjhsQTl5cm5FdXVFNmk4VGFSOHh6ZVlaZUh4NVE0MXUyMVNmNHhvbm1mLTlyR3VGQ25uM094OTdsUDJQNGFfaGxST0VyanJCdENNS213?oc=5",
+          "published": "Mon, 16 Nov 2026 17:56:58 GMT",
           "source": "Reuters"
         },
         {
-          "title": "'No ordinary CEO': Why the AI race cannot do without Nvidia's Jensen Huang",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMERscVA0bmtmSTlEYWRSTzV1bzVFVnFOQnR4ZjMtMzgyR0o0aFpzVmZDTklKMjUxZ2ptTTU2ZlA3UzRiNU1HUFIzd2gycHliSlo3ZkpOMk93akxqcjdQX05iSWZuQU9ZWlV2Q2o5cV80TTBqckFzOFlOREtOTHR4dVpFb29ZRkRTbDl3RGJrN0FrNEp1aGdTeVN2bkR3UlNYa0padDRqTTNINlNNdzVzTG9CcjlZV2tUaFV2SHlxcENUS28?oc=5",
-          "published": "Mon, 09 Nov 2026 17:06:48 GMT",
+          "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMElzZFpVRVdZdFB2WFY3NjVyRVUzeHhWcDE5WGZoR3BjRXhkbUZJMkhYdF9Cb2t6X3YyVEltQ1VwZ3JfbHdtbTRLX1dQWVdqTmFuYk1IaFczNUJVelljOG83NjlRZXFsaGJtUE45YlF6VFJEVjZtNTBlcDRRN3hJRi1Ycy1EM2tteDF0SGhSeGNJRlduVlNCRmtETzFnSlFCVjdTVmlhTHVZVThCdnUteUNycW1RdVdmaHpCUWJIRmNGb2pGaGZrSG1qQQ?oc=5",
+          "published": "Mon, 16 Nov 2026 16:47:43 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Saudi East-West oil pipeline hit in Medina region, state media reports",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5",
-          "published": "Mon, 09 Nov 2026 17:43:45 GMT",
+          "title": "Le Pen says France will keep giving Ukraine aid if she is elected",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnY1dHJyUUt2WXptNzV2UFR5WXNVVWF5alZUcVdJLTFIOVcyLUcwNUpVQy0ySzA4cWd1QnBmYzJkaUw5SENRRGpzR3BlQ3B1VFJtU1JvdmdoSmotYTMyVmlwUmhsenIwY21SeXVsTF9yRUoxdV9jVmx6UTk2SDgwYTNNa2IycS1ZV0tveTJReUI2VEhVZUhxMVlaOXVvRi1MZzc2dWhFUnhPanZx?oc=5",
+          "published": "Mon, 16 Nov 2026 18:06:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5",
-          "published": "Mon, 09 Nov 2026 18:43:31 GMT",
+          "title": "US hyperscale data centers emit as much as Denmark, report says",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjBMQklCbnU1M3ltaVlHMHRzWmlRSktBX0hPU2hyYkwtSzBsTVhJVllRZDQ4ZFI2QVlGMVp3b3NMLW93aTVjQkplWEtYeHl6R08tOXJEQlZiWURJTTNadTlIVnV6Tlc4UDVhbi1vRVJIV2JXLTRPWmlBb0QzbnRFZzNBVGpEMUR0TWJ6VGdYQjBNOWFycnRvN1JEZjFvSVhETEZWWDkxb0tRSlV4UEE?oc=5",
+          "published": "Mon, 16 Nov 2026 16:41:17 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Anthropic must face lawsuit over Claude subscription marketing",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZtZzZWNUh2ejlBRmZIQ2prdlNzWnlNTFFkOFZXRWJCaXpBdzVtaUk3cDBXZG1uUXdEaEdqZHNtSWF5N2o4Ni1xdjkzVHp0azBKQTFZb0k0ZVpDYU5id2l3ZTdtNlltZVJyNUhRZjIxWDluWHd4TW5YLXhCcHNlejNyamFlZjZUbWJsaS1yb0VGZDJFQnJXZUhaNmNoUEJjM2s3TWltbFREMmNMVkdDbkNLaXNJQQ?oc=5",
-          "published": "Mon, 09 Nov 2026 17:40:04 GMT",
+          "title": "British actor Robert Pattinson named as new James Bond",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
+          "published": "Mon, 16 Nov 2026 17:11:35 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US vows to speed up deployment of counter-drone systems to address threats",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlhuQjFFMzFiTkdfNTFPVmhTYzR0dnUxNVdadHhVVWRITjlPaEFnWm92QXBoR0tIVW1rQXNQODllLTNQUkVHMUVmSFI4emRCTVc3NVVONkRNci03UUlXa1VUcV9vSkx3dWxYUjdJNlEwcEVvZmRiUlZrWTRaN243dGcwZW96SkhCeVhVblNzd0NqODROVncyeEo3aGVRX3FqZ09iMEozSFVLQ2NITTh4N0d5U0RvNExIT3J0Z0FaLUZPanNfXzJB?oc=5",
-          "published": "Mon, 09 Nov 2026 17:09:35 GMT",
+          "title": "Interest in Trump’s meme coin dinner fades as $TRUMP sinks to record lows",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldWFkMVhic1ZHTmZpN0NxdEhnU2JqNUVBR2xXOWExaGYtV1FtZHRhUkZsQ0JpUGx1VFY3MDhSTW1XSFBsaEV6aXBsYldoZ1haVVN1YXBJYlZCSWVLQ2FNU3AzOW9aUWtvekh0SDVtclhUd2pJN3Y1d0xTYUdpR2U4Y2ZCRGpyN3B3THkxdjVpRDBfalVrQS1DNUpOM2JjT3FjcGItQVRaVnZhakVZc0d1czY3dw?oc=5",
+          "published": "Mon, 16 Nov 2026 15:17:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Boeing to cut 5% of commercial jet workforce amid production struggles",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVdQLTVQc2wtZzFUaDBNM3phQnpkZ0dfUlBXY2N3Z1BYcnZ3ajlMVjByY0gtcXExaWx5Qmx6T2M5LS1TMVhKb21teGtmZ082TmdoRGhGZkQwMTlqQzhncDFZaDhhNW9Rbml4VVZRSTZlTGRGb29JYW1pVUsxNUt4amNpdTlVTmRxZmdTMk0zNW55UXRLSHE5a0ZpZDFJenQwd2hPWjZ0UFZ2NzhiYl9meWphV0YzR1REZWNSOGRuMDZHTl9qdE1odw?oc=5",
-          "published": "Mon, 09 Nov 2026 19:18:40 GMT",
+          "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
+          "published": "Mon, 16 Nov 2026 17:15:46 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Head of US Justice Department's civil division resigns, says Blanche",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXRyTEtYNzJHemlndGF1QmMyd29vN25Id2VpUXlXb24xVWczTHphdDR2Tks3NUlGX19kY19MTzVhNmhjYUxrdmx2NmtQbS1MNklrM05sckVJUy11N1dPWXVGTDctcWNBM2xMZ1RQRHhBTnlqTDdzNm5WckRMM1BWMVRlS0RtZ2dvMG1BUm55VnRqRlE2eDM5Y0hVU3dTb0JVNlAyR2xSQ0NycGJnQWdOanpxSQ?oc=5",
-          "published": "Mon, 09 Nov 2026 16:10:47 GMT",
+          "title": "Supreme Court rejects Trump appeal defending diversity-related grant cuts",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHNTbWdFZDktTEl4a2dGaDJaWkgzUzZHYUpsMXlDejBXOWdSMFpKdXl5bjVNakxPbFFCSTREbzhIZ2VoSElLSlNrLVNIYmF4dTk0UmRGeE5MVjcwNDVBb3FJSTVROE5yV3dxeUNBUlBIX3ZSUEg1YmVwQ0xMdjl5aGhTSUF1Um1NSzBzRFhZaTg3VVgydmRHTUM4TFRZMGN2b1ZlZ0hDQ2hVeDFhYS1tNUlQNnR6UQ?oc=5",
+          "published": "Mon, 16 Nov 2026 15:37:45 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US FDA orders new eye risk warnings for Ozempic, Zepbound",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG9HX0xJekVOS0FKR3BLMDJBSVJ6SEFrd2FSTU1aUmp1bTR0Vzl6V2Ewand4MTNVbGlTSXhFZEtGM19WZzhieEZrN3paaW1PWUVkZHlWdy1YalQ1OFlWblV4REdtc1hMQzlzTWJmWFRVRmNnNDdVY05oS292b00yTHQtZnh5djFrbTBpdGJDUnJ3akQ0ZlZoRzhaUXRDMXRURFhuM3lySkg4bnBmeDQyN0NjYXJIMDJJRW1LSUhxNHR0Zw?oc=5",
-          "published": "Mon, 09 Nov 2026 17:35:23 GMT",
+          "title": "Russia warns UK over G20 presidency after London says Putin won't come to its summit",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVlHVVVPVXpteFVkdnF3VzktYlUzSmFYQ2FKMVktd1hFMDB3M1BvMEVCMzlEWDZ0YkhBQXdORkVPTW43d2VfeEowRWZrTVFJSXJ1dE90X09IOVlva0puNEVRU08tQ29SUWFlWWlETkxEZ1U1V2c1RzNUM2FjdFVKQ0dQTTFvcmRMb0xTcFBrM2dLd094bG54blplTDZmTkFHcF9rSXVvUTdPOWtBWDBTZXRZdG5DeEcwajBYN0FxeE5vaEswYXJ3Nw?oc=5",
+          "published": "Mon, 16 Nov 2026 15:49:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Karniol-Tambour to leave Bridgewater to lead Canada's sovereign fund",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzc4bWlvM0cxYzV3cC0za3dLNWZPeWZkOE9vdmstYTg5Vjl1TVFFRVVGR2J1SWQ4YW9Wd2V3RTVCOFlSeDlEYkptcW1naFZmdFJnOXNfa1BIQzhPQktkMUZCV2xmZ0pfWlAtMTJpU0hIdTdmaVNwbFV6S3l5VWpPRHpZZEl2WmR6cTF1bnBGVy1vRjVOcWY1YUxOd3c3d0JCNndrUUwwWDl5M3V3VTFvX0RB?oc=5",
-          "published": "Mon, 09 Nov 2026 16:33:05 GMT",
+          "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
+          "published": "Mon, 16 Nov 2026 17:21:18 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRENQMlVnSU1PdXZ1cHhWUU9kRnhzSXRLaXBNZWZlR1RRV0xtZmo4aW05SjVnbXRlblJFaW9UUGxaWXE0QzVYcno2QUJuUGY4SHlUbmFzazRfMjc2Mmh5Umk1M292djBpVG9EY1FjVHJZZDlGVVAtNFdUQjFNcnZWZF9Zdl9pQWxMM0ZHQTNTSlhtRWVFQjloaUROZkJ4QUtLYkNOdkhrYXNOM3FYZ1cycTFDai1vd2FveVVBdW9xQ3FqeklOcEVfdUhn?oc=5",
-          "published": "Mon, 09 Nov 2026 15:43:10 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    "wednesday": {
-      "updated_at": "2026-11-11T01:47:39.757346+09:00",
-      "articles": [
-        {
-          "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
-          "published": "Tue, 10 Nov 2026 15:51:13 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Rubio says no need for major combat operations on Iran given US economic campaign",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOek5yNnd3UkRRS2RHYjY5MlR1NU9KQnFWcW43RGV1VHI5Yzhxc3RseUstNnVCbXVlUTN3T1hTcE9RUEFGT0R6Q0JUTmQxNW1aX2lZM0RXZkNjLTgwdWQ5aFN1OGM2LTBLcV91MlBkdDE0a2VCQk5nNUdDOGo1ZHI2TW9Pa010QjlrcjQwU0htVjlTMlVOUXJ2cThHQ0JHY09rSHFyYVgtNzNhMXNVVzJ3UTZTb1R6cmM?oc=5",
-          "published": "Tue, 10 Nov 2026 14:28:18 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5",
-          "published": "Tue, 10 Nov 2026 14:16:09 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Portugal braces for Storm Charles; to shut schools, ready rescue teams",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdndjVVY4Nm84RWV4bjBLUldOM0JlZUdFQjQ3UTB3Y3U2d0w0bG84dFNPRm9BVE5fbzV0NnNzRTNGdkhmQXg4Uy1NSXowMTYwYmtKUDBDMTJjNjZ3ZkU4T0hoa3VIeFVaTVk0eklpRDFCcE9RUU5icXMydjJkNHNycHhRZHI3U3M1aVpHUGpubjVzR1ktbmRYQTQyWVg0dmZrRFZnUl9ldzJQc0puZXQtUy1scURjXzhFVnc?oc=5",
-          "published": "Tue, 10 Nov 2026 13:52:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US consumer prices increase strongly for third straight month in October",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
-          "published": "Tue, 10 Nov 2026 15:33:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "What are the impeachment articles facing Pete Hegseth?",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2NMbXZsZWM1TUpORFVzUVhKMFIyS3VPSk5SRHZkQ1VCcjhJU3JReEI3N3NSbW9vRGc0R3Z4WTZWWllUbEU0ODRJWkxxOXVLNy1uQTBCbWNtWlNYY0ZRUWstcWU4dlhUaVgtU2pqMW9wWkltVDBYUGxNblFDZU1aSmd5eXgzYzZfcy1TWDRNOEc1WlJIZ2IwVDJR?oc=5",
-          "published": "Tue, 10 Nov 2026 15:01:28 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Defiant Hegseth blasts impeachment effort ahead of House vote",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
-          "published": "Tue, 10 Nov 2026 15:15:07 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "France's president and wife file new lawsuit against US podcaster Owens",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3Fiby1UYmJ1YV9XRExveE5ZVHRIM2ZYWnNLR0RONDRTYkYyX3RvaTNZV2tzeEIyTXAzcF96dnRCcjlRanpNdFl5TjVybkdWcGJFMXVUY1VXbWFSLUNkRjR5RDNLb0l1b1V0MWJzMDRsb3EyM2U1bERQRjlGQXdrZkdkQTNlR0ZLckw4ak1hZW9pMlRXd3JRanpucHJpU2RSYXZuSGJLbC1LMlJqcXhpTjdxaVJOdHZVdzNz?oc=5",
-          "published": "Tue, 10 Nov 2026 12:39:49 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
-          "published": "Tue, 10 Nov 2026 14:35:08 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "EXCLUSIVE: Recent Ukrainian attacks have reduced Russia's oil processing capacity by 30%, sources say",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXJUZnFVTVJmR25VaW9YQkhwMTJEM0FzTWVHLXRZOFpXV09zN18zd1RIOThGTHdiVUVmbVFnbnJqRUhfQzdSQzBDTHFLUUxtSEI3YkZyNFQ0RzdlQ3oxMVRHb1d2YUNBa3hIbWQ3VWxmYTBNaWpiVmdjOXB4ZDlzMFhQQk10a1FZWkhWem81TGNaS0JFc25FNUV6eFVhd2RIYldEQTlCU051VUFlalpnSlBoYzdOVFFFNVN4cjNjRjVuX05jNGc?oc=5",
-          "published": "Tue, 10 Nov 2026 12:19:36 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
-          "published": "Tue, 10 Nov 2026 12:14:40 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
-          "published": "Tue, 10 Nov 2026 12:56:21 GMT",
+          "title": "Bank of Canada Governor Macklem to step down once term ends in 2027",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOExHMHhYSmZUdF9OVlBnTkQ4N29jLTA4RmFPa09hdTgzMHQ0UlhYRkZmcHU3S19ZckE1MURrQU43U3FQOU9ENTdGZHZBTUZvT2hNcExZcWVPTUUzWEhtX1BvX3lpXzVXQktFMTBybkRMaTdsM3FfVFZnYTlnUVhRSGRob2paU0JMcXA1NmxKUjI0UkRGQmVSbFhuOVliZDYwbFhXZ2ZnanpBR1lmOGc?oc=5",
+          "published": "Mon, 16 Nov 2026 17:16:38 GMT",
           "source": "Reuters"
         }
       ]
     }
   },
-  "last_updated": "2026-11-11T01:47:39.757346+09:00"
+  "last_updated": "2026-11-17T04:16:38.122979+09:00"
 }
