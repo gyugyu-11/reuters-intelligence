@@ -1,160 +1,83 @@
 {
-  "week": "2026-W47",
+  "week": "2026-W48",
   "days": {
     "tuesday": {
-      "updated_at": "2026-11-17T04:16:38.122979+09:00",
+      "updated_at": "2026-11-24T05:53:05.976169+09:00",
       "articles": [
         {
-          "title": "Fed's Warsh says emerging technologies will have 'significant impact,' but risks need to be watched",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
-          "published": "Mon, 16 Nov 2026 17:06:57 GMT",
+          "title": "NATO to send early-warning system aircraft to Poland after missiles incident",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEhFQnBrZnZEa0dZclBpTkZMV3BBNS1tN3NjeGhINDZKcllFTERwWnR6NlpzM0Q0WTZkbGM3SXpVWGZ2bGFFaW4xV2M4T3BIUE1VUkxMX19wa0RwM0JaTDBEM3l4R1ROZlVwSjE1LWVUYnp6SU40WjMyeFlFZjlJYjV0ZE9LVTZkR0pIblp0cXdzeE5fLTNhbkR3QVFfa3pDU2M4blFEMlI4dm5XUTRDUExwTUpyLXJxU0ZiRjBZcFhQWVBFQ294SllhMld3UQ?oc=5",
+          "published": "Mon, 23 Nov 2026 19:01:22 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump backs potential return of Jensen Huang as Nvidia CEO",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXlLTW9ld2U2cjRMU3pVOFBtOEhlQzE2TnlxazhiOHltQU9icEhwRmhvUFRhWC1uQzJ0bldzQmhJcnNsMmVFVHJhY1hEcWdNcG9KLWJoWlVKSlNHOEZvREdCQjhsQTl5cm5FdXVFNmk4VGFSOHh6ZVlaZUh4NVE0MXUyMVNmNHhvbm1mLTlyR3VGQ25uM094OTdsUDJQNGFfaGxST0VyanJCdENNS213?oc=5",
-          "published": "Mon, 16 Nov 2026 17:56:58 GMT",
+          "title": "Trump saw Nvidia's Huang as protector of open-weight AI models, sources say",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5",
+          "published": "Mon, 23 Nov 2026 19:23:26 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMElzZFpVRVdZdFB2WFY3NjVyRVUzeHhWcDE5WGZoR3BjRXhkbUZJMkhYdF9Cb2t6X3YyVEltQ1VwZ3JfbHdtbTRLX1dQWVdqTmFuYk1IaFczNUJVelljOG83NjlRZXFsaGJtUE45YlF6VFJEVjZtNTBlcDRRN3hJRi1Ycy1EM2tteDF0SGhSeGNJRlduVlNCRmtETzFnSlFCVjdTVmlhTHVZVThCdnUteUNycW1RdVdmaHpCUWJIRmNGb2pGaGZrSG1qQQ?oc=5",
-          "published": "Mon, 16 Nov 2026 16:47:43 GMT",
+          "title": "Nvidia bears face $12.2 billion hit on Huang's surprise return",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObDc2T2YtTzVKdktGdmxSZW5iSG5Pcy16ZU9IZDZKUnhYTEJqRmRBY191eHI1QktIeHplc1B0QUM0SmJnN0oxODJUNzI4bVhRQ1ZxOE5PX19ueW92VHdQS3cyVGd4Z1lmcXRqaEtya183QUF0XzJFampRLW9OOVgtZXF1bVFicUlERG9TQy1ra3kwNnNJUlpfc3lLQ0hpdHh3Umtr?oc=5",
+          "published": "Mon, 23 Nov 2026 16:39:44 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Le Pen says France will keep giving Ukraine aid if she is elected",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnY1dHJyUUt2WXptNzV2UFR5WXNVVWF5alZUcVdJLTFIOVcyLUcwNUpVQy0ySzA4cWd1QnBmYzJkaUw5SENRRGpzR3BlQ3B1VFJtU1JvdmdoSmotYTMyVmlwUmhsenIwY21SeXVsTF9yRUoxdV9jVmx6UTk2SDgwYTNNa2IycS1ZV0tveTJReUI2VEhVZUhxMVlaOXVvRi1MZzc2dWhFUnhPanZx?oc=5",
-          "published": "Mon, 16 Nov 2026 18:06:41 GMT",
+          "title": "Options on Anthropic shares start trading in brisk volume",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzZBTkVsVXo2NVo5WmF4NXlRZnpidUVLNE1ZX25XbHFLUm1RamtHODdMRWJYTWJDSVlFRmlfSDI5dGVGVEQ1ZHItNVhoLWFhX0M2eGxVTHdtUExfMUxEc1p2S3ZTVkJuTVd0TUYxXy04UEJnOXFldDE2ZHMzMDEyeXcyMkNpdlpHamVDRmtpVQ?oc=5",
+          "published": "Mon, 23 Nov 2026 17:32:41 GMT",
           "source": "Reuters"
         },
         {
-          "title": "US hyperscale data centers emit as much as Denmark, report says",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORjBMQklCbnU1M3ltaVlHMHRzWmlRSktBX0hPU2hyYkwtSzBsTVhJVllRZDQ4ZFI2QVlGMVp3b3NMLW93aTVjQkplWEtYeHl6R08tOXJEQlZiWURJTTNadTlIVnV6Tlc4UDVhbi1vRVJIV2JXLTRPWmlBb0QzbnRFZzNBVGpEMUR0TWJ6VGdYQjBNOWFycnRvN1JEZjFvSVhETEZWWDkxb0tRSlV4UEE?oc=5",
-          "published": "Mon, 16 Nov 2026 16:41:17 GMT",
+          "title": "Trump tells CNBC he was represented at Nvidia board, spoke to Huang",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3pYc1MzQXZDVUNIbmZKWjQxRXBNeWtHRlllMWc2TWVNSkJuU2dIUS1MQkxseVVRam11MERTY1JucUxKNGhjdUlyQml3WFpucGljS2I5dnNDY05jd3NmeG85bkdZNmplNzltOC1waVFJaUdvWEYxNDVncmFKWXNGUTJBQmFDWW1pT2VOS3VFLWQwR0VwVS1ST1F2Y1VlVkJ4NG9xaDRrRnZIbWM?oc=5",
+          "published": "Mon, 23 Nov 2026 16:06:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "British actor Robert Pattinson named as new James Bond",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
-          "published": "Mon, 16 Nov 2026 17:11:35 GMT",
+          "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5",
+          "published": "Mon, 23 Nov 2026 16:13:10 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Interest in Trump’s meme coin dinner fades as $TRUMP sinks to record lows",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldWFkMVhic1ZHTmZpN0NxdEhnU2JqNUVBR2xXOWExaGYtV1FtZHRhUkZsQ0JpUGx1VFY3MDhSTW1XSFBsaEV6aXBsYldoZ1haVVN1YXBJYlZCSWVLQ2FNU3AzOW9aUWtvekh0SDVtclhUd2pJN3Y1d0xTYUdpR2U4Y2ZCRGpyN3B3THkxdjVpRDBfalVrQS1DNUpOM2JjT3FjcGItQVRaVnZhakVZc0d1czY3dw?oc=5",
-          "published": "Mon, 16 Nov 2026 15:17:19 GMT",
+          "title": "Britain says SpaceX restrictions in Ukraine 'dented confidence and trust'",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVVUwM3E2S25ITGFnMXI3UUZUcHRmTldCaHAzSnpFWDVjaEZXbF9kZV9fcXZOMWZkemxmV1NVYmYyNkhpTkdzUmVtRzkzRHpkcjFnQ0s1RFNpcnRuY095UzN2Z3hiN2l4OW5BM0hmUmNTVUlXQTVlbGpSQnFzNV9ZSTM0WEpWMnNfcHJCT3pmTFUyd2tVT2E0ZHBmN0V2UDh0YVJ4Z3M2ZzhUR0Z3LS16YUZTb1prcWxBLXd0R0RwdVQ?oc=5",
+          "published": "Mon, 23 Nov 2026 17:36:09 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
-          "published": "Mon, 16 Nov 2026 17:15:46 GMT",
+          "title": "Political and corporate leaders react to Huang's return as Nvidia CEO",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnlVTjVfX19obXNnQmFYcHJyY1VpcHZSOHh1aFJOTHh0eVBZVl9KOG9sWk5TZUlqWVMxSTdMUWVVa1BFeGhhSkZzNXJLSUUtajdRT2xadGhCMG1xOFI3UG9zS0tmbXRhdk05dGU0OEJRcnZ1eVZjWWpmcXNyOTM3ZTk1WVRQNENBMjhzMnpWczQySlJMRmFqc3pDanEtNzNuNllqb1d3?oc=5",
+          "published": "Mon, 23 Nov 2026 16:39:31 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Supreme Court rejects Trump appeal defending diversity-related grant cuts",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHNTbWdFZDktTEl4a2dGaDJaWkgzUzZHYUpsMXlDejBXOWdSMFpKdXl5bjVNakxPbFFCSTREbzhIZ2VoSElLSlNrLVNIYmF4dTk0UmRGeE5MVjcwNDVBb3FJSTVROE5yV3dxeUNBUlBIX3ZSUEg1YmVwQ0xMdjl5aGhTSUF1Um1NSzBzRFhZaTg3VVgydmRHTUM4TFRZMGN2b1ZlZ0hDQ2hVeDFhYS1tNUlQNnR6UQ?oc=5",
-          "published": "Mon, 16 Nov 2026 15:37:45 GMT",
+          "title": "US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY290QTRyd09iaGNpaWpuNmlnOHQ2MVZSMm43Q29tS05BSE00ekxCeF9DZ013THRtUzVsTUItS2FIa1R6UzdOQ2FlOFlscXRLVUdfNkhLNS1JZ0FNNTZuOEgxdVVhN2JnaDBYdVFJQXBhSUNxeFBnR0V2XzZLTzZBaEh4NVUxLWRhZjJHOGR5NGVZOXpjWGZjaVFWR0NobElUaUE?oc=5",
+          "published": "Mon, 23 Nov 2026 19:38:16 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Russia warns UK over G20 presidency after London says Putin won't come to its summit",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVlHVVVPVXpteFVkdnF3VzktYlUzSmFYQ2FKMVktd1hFMDB3M1BvMEVCMzlEWDZ0YkhBQXdORkVPTW43d2VfeEowRWZrTVFJSXJ1dE90X09IOVlva0puNEVRU08tQ29SUWFlWWlETkxEZ1U1V2c1RzNUM2FjdFVKQ0dQTTFvcmRMb0xTcFBrM2dLd094bG54blplTDZmTkFHcF9rSXVvUTdPOWtBWDBTZXRZdG5DeEcwajBYN0FxeE5vaEswYXJ3Nw?oc=5",
-          "published": "Mon, 16 Nov 2026 15:49:44 GMT",
+          "title": "White House moves to potentially replace blocked Trump judicial nominee, source says",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFF4ZmFWRTMwallWSHh0VWVnX2lmeDNOZV9DekZTSmk1T0FWQjZCa3Z6dkZ0ZDVtelZLRnBVWjV5WHdYZmdPWWptb09iZ3VSdS0yTDdnU3FYUWx5cWJEaVFaR0gzYWJmbHhsaUZJd1hKQ3M5cGRqZGlfQTZWYm9iYi00RGUyRlV1YkdBcmJwVWpYeUdJenlyR29tODEzekswMzZzSEJWNHF4b2pWYlYtVWEtdGVIcjF1ZVNheUFlSHkwUENLVFUzTFlRdHA0UQ?oc=5",
+          "published": "Mon, 23 Nov 2026 18:50:19 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Tesla plans $3.3 billion Cybercab boost for Germany's troubled auto sector",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaHd0RC1iZmQwWUtkTl9CYjJVMUhGYmtxNEZyQU92Rm5mZS1OZ0Z2bHl6TmJuLUFJYWpQUW5GQ1h2anVqSHR5TDF3aThnaWhDd3lDYl9oY3VqbTVLaUMwMGtSME5IckZnZE5PQVhURTNPQ1BaS2tBejl6OU15X1B1N3VOM0o3dktRbnpLSjc1eWI5WWs4bjZqNnFOOA?oc=5",
-          "published": "Mon, 16 Nov 2026 17:21:18 GMT",
+          "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1A2RHl1RS1IaFcyWmlES0xYNW1lbnM5VlhwWVU5ajZhRVVBa0Mydi1OZG4tS0tCYVJKX1JiOUtmWlNTZVJmTGRTRlFtZTRXRTRxcXB1aGMya2JhWm41UXE5Y2pxTlFDNzVSQ2MyV0RPZzNoYlZtazdMX3RYRnB6VFFsaEFnTGI5RFk4TnczUE9aTXFqcGNxZ0psd1JUczRBNi1LSkpnVk8?oc=5",
+          "published": "Mon, 23 Nov 2026 16:26:12 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Bank of Canada Governor Macklem to step down once term ends in 2027",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOExHMHhYSmZUdF9OVlBnTkQ4N29jLTA4RmFPa09hdTgzMHQ0UlhYRkZmcHU3S19ZckE1MURrQU43U3FQOU9ENTdGZHZBTUZvT2hNcExZcWVPTUUzWEhtX1BvX3lpXzVXQktFMTBybkRMaTdsM3FfVFZnYTlnUVhRSGRob2paU0JMcXA1NmxKUjI0UkRGQmVSbFhuOVliZDYwbFhXZ2ZnanpBR1lmOGc?oc=5",
-          "published": "Mon, 16 Nov 2026 17:16:38 GMT",
-          "source": "Reuters"
-        }
-      ]
-    },
-    "wednesday": {
-      "updated_at": "2026-11-18T03:09:43.029051+09:00",
-      "articles": [
-        {
-          "title": "Highly classified US national security communications network is down, CNN reports",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
-          "published": "Tue, 17 Nov 2026 16:13:50 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump and Tehran gamble on time as Iran war stalemate deepens",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5",
-          "published": "Tue, 17 Nov 2026 16:23:42 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US official says recent tech woes not tied to cyberattacks",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTTZwOTJGM2xFNVkyZHFWejNEd21jSVpZMkdPcUg4cTU1VWo3b01FOHRsY2VHYUJ0bXJQa2tfZ1o4dkxwTWxVdjBsVEhCQXBmS3Y1bURreUN1cGNjWWNqbURxUnhrcEpqZ1ByaDV2dDFpZ1N1cmtyNVRWZS1xQkpON2F3WjBYMm5STHVQTWNta0N1cDZLTHBxcktIbGg4Zw?oc=5",
-          "published": "Tue, 17 Nov 2026 15:49:43 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US retail sales increase moderately; import prices rise above expectations",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXFYQzF0Y092amNQX1ZybEpWNGF0TkJ6SDY0eWtIenJRRWE2by1QSXROdzVLLUF3MjJqNGxyZkJVVWEzeUZGNXlIekdaT0pMUFRmd2pPbl9BZTRGZERFSnFOend6M0FKU3laSWdPdEpiWkw3TlVTejkwdFZaeHJyR3dTb2o5Y0toVnZaVkxIeWEwZw?oc=5",
-          "published": "Tue, 17 Nov 2026 15:28:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hMbWxfN3A3R0lvakk4Qk93Z0Iwbk5IYVhNTmhfMTNkSVlZLTdhLWVxaUFOdkFsSW04MmNHV01XelkwLWIzWGt1ZkpjdlJZSW5qWG1FMW5VX2JGM0lPcGFuVUN2M29hUU0wN3pIdzNQblR2YXZxYXc1VVNkRl9Rd3B4MGRVUk0tOExNbzIzZkhvRVRDYTJkOWlKM0tXXy1uaHQ2UDJGWQ?oc=5",
-          "published": "Tue, 17 Nov 2026 16:43:12 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says US trade deal with Thailand to be signed soon",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2JoS2o5YWoxOGRTbWh0V3FpMTlLclVBaEtDbkp6dVVPVVlqb2pRZjlYMFo5eXVWTDFYbjZTY19uXzJpMDlVWXJmQnRBOEtGWldMcDVzWHl3MGpFTTl3TXI5SDU4MC1lNzdjME1NeFd6Mnd4c05OcnFCNUNqa2xENGVUMjhmTkdfOTJWcGhvVzQtdXpwNmIyc3U1Yw?oc=5",
-          "published": "Tue, 17 Nov 2026 13:23:57 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nike targets 2029 sales growth as CEO Hill steps up turnaround",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDN1UWpRMlJnYTJMY1gxQ0RGMUNfUU1rS0xrVzhXZUtGdmpRSXREcTNJNzBGVnpldktmRUU3aC1QN3EydHNhMVV4bFVPRTRlNWdFWmkyRjVlVVRaWFJxdEdPVFktTEN0dGhhcDJQRkFPQXRXMjFDNjFzbnZrODJncmZVb3BjdHJNTlA4NkM3S1J4NFU4UW1vS2NPdnRRb3BjM21rYlBWMGE0UFhyUzVJMTJtLTdBdw?oc=5",
-          "published": "Tue, 17 Nov 2026 17:16:06 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5",
-          "published": "Tue, 17 Nov 2026 13:08:25 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "'Death is near': Inside the hoax bomb threats that rattled Europe's schools and airports",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlo2VTVwTGRISXFPQ2lld2FvUVJxMktBMXFsX2Zrb2FpV3RnZVlEa3JJazJra0xZcEM0VzNNdE9xSkpKV3dLS2VtY1RvMFBoajhYRFBhWUQ2Nk1MeDg1Y3duNGZBUm8tbjdCVHc3elpyMXFTQW83U1Q4WlJIQmE3MnkwVDl4LVdfLUZ2dnhMU0hWU1I4Q3F0TFB3QndMNUVjZG9TSUpXOUxrR1JrYlBzRmx3MFh3OGVXYklxdjNESzZHaXc?oc=5",
-          "published": "Tue, 17 Nov 2026 16:05:58 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Sellas vaccine extends survival in blood cancer trial, shares surge",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
-          "published": "Tue, 17 Nov 2026 14:54:03 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "US data centers slash electric bills with brief demand cuts, raising questions over who pays",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWNQR2NtWXhrdGVscW14OVhXNTdfd243QWJXV3VEZVp1N3laZEdwS0VPS3o4MTU3XzM0WmsxMDhQLTNkVGNNcm5NUDhXdnZva1R0Sm1NblJCQUZZcGJ6SjJCUnhHU2FLTS1wdE02T0tNU0htbkxBX3ZtU1o5M19OTVFERTdnaktMSlQtazJsbUg1dzVwU2ZUbU1VUGVPeUFsNko0TnRxVVFtQkdaamFpcE5XbldXc1p5NGJ4a3kxS0owOWlCX2FnVE53?oc=5",
-          "published": "Tue, 17 Nov 2026 16:17:27 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia shares set for $335 billion swing after earnings, options show",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgtN05zY1JHMFRsZlg2WkdkdGNRMDV4bFl4RllkcWFvVEVyd0QxTUhZWERjUmhIWTlOTkxiNHpxQjJpQTV1ZU45dGNmT2M5MDd4ZkRZeHNxSGNjaTFPdHUyRXJEdHlrSGRuWUlaX0VDRkpWNG9CS2UySmxFajBDQ1NjU0JMcUl6NFNmbFZoOXYyY19GMExQSkZva2VWMWUtUGpLRG93TkRhWHRU?oc=5",
-          "published": "Tue, 17 Nov 2026 13:09:01 GMT",
+          "title": "Amazon to buy Decart's AI chip optimization tech in latest AI talent grab",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORW5Dd2o3Ty1RU2Rmbl9tMi1pcS1DUTlFY0x0c1d5czk4R2Z0YXZObUJyRkFTYk1yMlhyYk5YUGIwOFg0dUotVGR1cU15VjhOVVNzYmVxQlVQN1hPeDBPOHdGZ1FjS21BRVdWYkF5azRKdzBWLVh2WnV4YWp5dlFtRFpPSHdZNkx4V2syeHpOOXV0RHBSUnFjRkZEc3RHR2gtUFZuNVVPWm9YOW84VmM5dnpXMGt6OHpNalpiTlBpM1ZIcE1JSlE?oc=5",
+          "published": "Mon, 23 Nov 2026 16:53:04 GMT",
           "source": "Reuters"
         }
       ]
     }
   },
-  "last_updated": "2026-11-18T03:09:43.029051+09:00"
+  "last_updated": "2026-11-24T05:53:05.976169+09:00"
 }
